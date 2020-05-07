@@ -3,32 +3,20 @@ Japan,India,48830067295
 Japan,Thailand,35437690727
 United Kingdom,India,19921976117
 Germany,India,18017983208
-Germany,Poland,17230746024
 United States,Colombia,17104240812
 United States,India,16529832819
 United States,Brazil,13548341140
-Japan,Korea,13029452754
-United States,Korea,11154361995
 Japan,Brazil,10406029105
-United States,Kuwait,7727422143
 Netherlands,India,6977708986
 United States,South Africa,6678780430
 United States,Thailand,6495636611
-United States,Saudi Arabia,4440013519
 France,India,4139074370
-United States,Canada,4068597498
 Germany,Brazil,4063216247
 Sweden,India,3827796549
 United States,Chile,3690681030
 Canada,India,3659444746
 France,Brazil,3297628513
-United States,Taiwan,2831031587
-United States,Australia,2572618261
-United States,Poland,2508547257
-United States,Italy,2400034449
 Norway,India,2147933250
-United States,Japan,2080977585
-France,Poland,2005432347
 Denmark,India,2004368952
 France,South Africa,1901701859
 United Kingdom,South Africa,1862114265
@@ -42,8 +30,6 @@ France,Colombia,1680107102
 Sweden,South Africa,1416545325
 Japan,Colombia,1414487282
 Germany,Chile,1365472828
-Canada,Poland,1307586093
-United States,Czech Republic,1250055625
 Germany,Colombia,1238911524
 Italy,India,1237117872
 Japan,South Africa,1176312073
@@ -52,39 +38,22 @@ Norway,Brazil,1070847764
 Spain,Colombia,1066811913
 France,Thailand,1049660923
 Australia,India,982075862
-United States,United Kingdom,957343964
-United States,Ireland,934638729
-Kuwait,India,893157410
 Netherlands,South Africa,840526986
-Korea,India,838979022
 Canada,Thailand,836611055
 Japan,Romania,801669787
-Belgium,Poland,800330632
-United States,Austria,769908525
-Saudi Arabia,India,759651342
-United States,Qatar,723167326
 United Kingdom,Brazil,713312502
 Japan,Chile,703444054
-Germany,Korea,691327750
 Norway,South Africa,689555304
 Japan,Hungary,680145878
 Canada,Colombia,671086359
 Netherlands,Colombia,642223602
-United States,Spain,561711808
 Belgium,India,561481858
-United States,Luxembourg,555039832
-Japan,Czech Republic,543758147
-United States,Greece,519377906
 United States,Cyprus,494019637
 Denmark,Thailand,489489466
-Japan,Slovak Republic,485216855
-Saudi Arabia,Taiwan,456120873
 United Kingdom,Thailand,434207101
 France,Chile,423553789
 Denmark,South Africa,411760384
-Japan,Saudi Arabia,373261027
 Canada,South Africa,370099631
-United States,Norway,368001981
 Canada,Brazil,344019962
 Belgium,South Africa,340304159
 Spain,Brazil,312007477
@@ -94,111 +63,55 @@ Norway,Colombia,299650983
 Switzerland,Colombia,291509810
 Switzerland,South Africa,273016890
 Spain,India,271820536
-Germany,United Arab Emirates,271672489
-Kuwait,Thailand,260887969
 France,Romania,241984953
 Australia,South Africa,240893012
-United States,France,237532627
-United States,New Zealand,225588310
 Germany,Romania,222430428
 United Kingdom,Colombia,215435718
 Belgium,Brazil,212928735
 Spain,Chile,211911806
-United Kingdom,Poland,209349961
-Korea,Brazil,204472350
 Finland,South Africa,198796278
 Ireland,South Africa,192651212
-Kuwait,Cyprus,192431763
-Saudi Arabia,Brazil,191647004
-United States,Belgium,184346233
 Sweden,Thailand,184052641
 Finland,India,182512666
-United States,Lithuania,182453518
-United States,Finland,180621823
 Sweden,Chile,177465428
-United States,Portugal,175129548
 France,Hungary,172396140
 Italy,Chile,169818458
-United States,Denmark,166310586
 Austria,India,162421492
-United States,Latvia,156604893
-Saudi Arabia,Thailand,156480316
-France,Korea,148847642
 Switzerland,Thailand,143029761
 Norway,Thailand,136378534
-Saudi Arabia,Korea,134511154
 Netherlands,Thailand,129993723
 Netherlands,Chile,127976174
 Finland,Thailand,126195858
-Sweden,Latvia,121664819
-Japan,Poland,116688443
 Germany,Cyprus,112651716
-Austria,Korea,111526265
 Germany,Slovenia,109892941
 United Kingdom,Romania,109722333
 Italy,South Africa,106916806
 Canada,Chile,106773387
-Korea,Thailand,105821945
 Germany,Hungary,105587476
-Sweden,Lithuania,104563110
-Qatar,United States,104519053
 Belgium,Colombia,102867692
-France,Czech Republic,97980891
 Switzerland,Brazil,95419283
-Sweden,Poland,94176270
-United States,Slovak Republic,94113865
-Spain,Poland,88269401
-Germany,Czech Republic,88260457
 Switzerland,Chile,87963745
 Netherlands,Brazil,87040487
-Korea,Colombia,85662550
-Japan,Lithuania,78826496
 Austria,Thailand,73958508
 Switzerland,Romania,73441265
 United Kingdom,Hungary,71021427
-Sweden,Estonia,69832972
-United Arab Emirates,India,65489369
 Austria,Hungary,63871235
 Belgium,Chile,59867040
-United States,Sweden,59757155
 France,Cyprus,59146756
 Ireland,India,58328825
-Italy,Poland,57102621
 Norway,Chile,56575551
 Belgium,Thailand,53295601
-Germany,Taiwan,53175422
-United States,Estonia,53126896
 Austria,Brazil,52226511
 Austria,Cyprus,51130825
-Japan,Latvia,51083689
-France,Slovak Republic,49945982
-Germany,Slovak Republic,47343284
-Portugal,Brazil,47190338
 Austria,Slovenia,46991641
-Germany,Lithuania,46788768
-Taiwan,South Africa,45628882
-United Kingdom,Czech Republic,45582006
-Austria,Slovak Republic,44700893
 Canada,Romania,44042357
-France,Saudi Arabia,43705887
-Korea,Chile,43598915
-Finland,Estonia,41612196
-United Kingdom,Slovak Republic,41318600
-France,Taiwan,38133611
 Luxembourg,India,36638705
-Austria,Czech Republic,36364341
-Canada,Czech Republic,35911427
 Netherlands,Romania,35291746
 Italy,Thailand,34627069
-Japan,Estonia,33732683
 Denmark,Chile,33407149
-Austria,Poland,33184327
 Austria,Romania,31695093
-Taiwan,Poland,30163151
 United Kingdom,Chile,29636288
 Austria,South Africa,29251443
-France,Lithuania,28369474
-Germany,Latvia,28041049
 Sweden,Brazil,26653699
 Canada,Slovenia,25872980
 Finland,Brazil,25810862
@@ -206,1686 +119,83 @@ Italy,Romania,25578574
 Spain,Romania,24248203
 Finland,Colombia,23761728
 Luxembourg,Brazil,23531630
-France,Kuwait,21944819
-Kuwait,Lithuania,21381183
-Korea,South Africa,20345015
 Luxembourg,Colombia,20308798
 Austria,Colombia,20231447
-Finland,Latvia,19882388
-Netherlands,Slovak Republic,19544856
 Spain,South Africa,19495582
 Ireland,Colombia,19468675
 Australia,Cyprus,18728824
 Luxembourg,South Africa,18699146
-United States,Liechtenstein,18264370
 New Zealand,South Africa,18156298
-Germany,Estonia,18124997
-United States,Iceland,18060045
 New Zealand,India,17973296
 Ireland,Brazil,17590489
 Netherlands,Hungary,17119328
 Canada,Hungary,15859229
-Canada,Slovak Republic,14970632
-Netherlands,Poland,14269465
-Germany,Saudi Arabia,14096654
-Switzerland,Czech Republic,13572863
-Netherlands,Czech Republic,13571361
 Italy,Cyprus,13345573
 United Kingdom,Cyprus,13166610
-Austria,Taiwan,13165781
-France,Estonia,13028164
-France,Latvia,12878608
 France,Slovenia,12821097
-Finland,Lithuania,12493168
-Canada,Lithuania,12308331
-Finland,Poland,12233233
 Finland,Hungary,12089983
-Netherlands,Lithuania,11528962
 Australia,Chile,11512013
-Sweden,Kuwait,11228374
-France,United Arab Emirates,10984119
 Australia,Brazil,10843457
 Australia,Colombia,10565816
 Sweden,Romania,10079723
-Canada,Latvia,10030919
 Finland,Chile,9423678
-Greece,South Africa,9409990
-Netherlands,Latvia,9186060
 Italy,Hungary,8524063
-Switzerland,Slovak Republic,8348274
 New Zealand,Thailand,8211584
-Portugal,South Africa,8178120
 New Zealand,Chile,7827589
-Greece,Romania,7699665
-Australia,Korea,7599604
-Italy,Korea,7324360
-Netherlands,Estonia,7298608
-Japan,United Arab Emirates,7247064
-France,Qatar,7132589
 Spain,Thailand,7072193
-Denmark,United Arab Emirates,7059757
 United States,Slovenia,6917157
-Portugal,India,6806655
-Italy,Slovak Republic,6619735
 Switzerland,Cyprus,6611736
 Italy,Slovenia,6608256
-Canada,Estonia,6427755
 Austria,Chile,6426788
-Italy,Czech Republic,6202973
-Greece,Brazil,6017626
-Taiwan,India,5941100
-Germany,Kuwait,5859569
-United Kingdom,Lithuania,5670274
 Luxembourg,Thailand,5449188
-Japan,Taiwan,5349281
 United Kingdom,Slovenia,5171801
 Luxembourg,Chile,5065189
-United Kingdom,Latvia,4937529
 Belgium,Romania,4513915
-Czech Republic,Romania,4506558
-Japan,Kuwait,4397148
 Ireland,Thailand,4314669
 Sweden,Slovenia,3979854
-Switzerland,Latvia,3969759
-United Kingdom,Estonia,3937712
-Canada,Korea,3865408
 Spain,Hungary,3854725
 Norway,Romania,3776773
 Netherlands,Slovenia,3407449
-Italy,Lithuania,3400359
-United Kingdom,Korea,3243556
-Spain,Slovak Republic,3213545
 Denmark,Brazil,3184580
 Denmark,Colombia,3146117
-Switzerland,Poland,3141751
 New Zealand,Brazil,3055532
-Japan,Qatar,3050875
 Sweden,Hungary,2969663
-Spain,Czech Republic,2745328
-Norway,Poland,2504790
-Norway,Lithuania,2461052
 Switzerland,Hungary,2322402
 Netherlands,Cyprus,2179629
 Ireland,Chile,2159916
-Austria,Saudi Arabia,2145296
-Czech Republic,India,2056065
-Belgium,Czech Republic,2043144
-Norway,Latvia,2040225
-Taiwan,Saudi Arabia,2004365
-Sweden,Czech Republic,1935937
-Greece,Poland,1739810
-Belgium,Slovak Republic,1635383
-Austria,United Arab Emirates,1595041
-Norway,Estonia,1561615
-United States,United Arab Emirates,1544263
-Austria,Lithuania,1520246
-Sweden,Slovak Republic,1500392
-Greece,Thailand,1446161
 Belgium,Hungary,1433578
 Canada,Cyprus,1410195
-Greece,India,1400035
 New Zealand,Colombia,1371917
 Belgium,Slovenia,1314983
-Italy,Latvia,1255166
 Norway,Cyprus,1246375
-Greece,Chile,1245391
-Portugal,Poland,1243350
-United Arab Emirates,South Africa,1229361
-Luxembourg,Czech Republic,1222185
-Portugal,Thailand,1221440
-Kuwait,Slovak Republic,1219994
-Greece,Cyprus,1154173
-Portugal,Chile,1146453
-Switzerland,Taiwan,1091413
 Australia,Hungary,984655
-Czech Republic,Chile,928893
-Austria,Latvia,899748
-Finland,Czech Republic,894384
-Czech Republic,Lithuania,849451
-Greece,Saudi Arabia,831789
-Belgium,Taiwan,810972
-Liechtenstein,Italy,791968
-Brazil,Colombia,773129
-Liechtenstein,Romania,726817
 Spain,Slovenia,707340
-Spain,Korea,685941
-United Kingdom,Saudi Arabia,671150
-Norway,Slovak Republic,653165
-Belgium,Lithuania,646128
-Austria,Estonia,637841
 Norway,Hungary,624435
-Portugal,Romania,607604
-Spain,Lithuania,598482
-Portugal,Hungary,596536
-Norway,Czech Republic,582639
-Italy,Estonia,565804
-Portugal,Czech Republic,558965
-Australia,Taiwan,552779
-Monaco,South Africa,542810
-Spain,Estonia,526284
-Portugal,Cyprus,519768
-Greece,Colombia,508081
-Luxembourg,Slovak Republic,505732
-Liechtenstein,Hungary,493120
-Netherlands,Korea,491792
-Chile,Colombia,480945
-Belgium,Estonia,479423
-Liechtenstein,Poland,466742
-Germany,Qatar,432959
-Portugal,Colombia,425831
-Spain,Latvia,422270
-Greece,Slovenia,412017
 Switzerland,Slovenia,371519
-Liechtenstein,Austria,358894
-Liechtenstein,Czech Republic,342761
-Portugal,Korea,338091
-Switzerland,Estonia,337871
 Ireland,Romania,335098
-Slovak Republic,India,332552
-United Arab Emirates,Colombia,330974
-Italy,Kuwait,327910
-Liechtenstein,Switzerland,326783
 Japan,Slovenia,316243
-United Arab Emirates,Thailand,308185
-Liechtenstein,India,288892
-Monaco,Slovenia,285519
-Belgium,Latvia,280576
-Italy,Saudi Arabia,277701
-Hungary,Romania,269084
-Switzerland,Korea,249214
-Greece,Korea,239451
 Spain,Cyprus,229892
-Netherlands,Saudi Arabia,227521
-Greece,Czech Republic,226778
 Norway,Slovenia,226588
-Ireland,Korea,205868
-United Arab Emirates,Brazil,201889
-Norway,Saudi Arabia,195375
-Switzerland,Lithuania,191394
-Czech Republic,Latvia,181792
-Finland,Slovak Republic,181612
-Liechtenstein,Colombia,175954
-Korea,Saudi Arabia,167923
-Colombia,Chile,158059
-Czech Republic,Thailand,155108
-Brazil,South Africa,153763
-New Zealand,Kuwait,153669
-Iceland,South Africa,152043
 Belgium,Cyprus,149740
-Estonia,India,138257
 Luxembourg,Romania,133449
-Czech Republic,Colombia,132556
-Poland,India,130823
-Liechtenstein,Liechtenstein,128713
-Brazil,Japan,124673
-Austria,Kuwait,124190
-Poland,South Africa,122835
-Monaco,Portugal,113058
-Slovenia,Colombia,112880
-Greece,Latvia,102967
 Australia,Slovenia,96659
-Estonia,Czech Republic,94211
-Chile,Brazil,78376
-United Arab Emirates,Chile,77208
-Liechtenstein,Finland,73670
-Poland,Brazil,69369
-Italy,United Arab Emirates,65097
-Brazil,Saudi Arabia,64741
-United Kingdom,Taiwan,64426
-Greece,Slovak Republic,62166
 Ireland,Hungary,60706
-Netherlands,Kuwait,60454
-Liechtenstein,Germany,60164
-Liechtenstein,Lithuania,58202
-Hungary,Canada,55468
-Greece,Hungary,54237
-Greece,Estonia,53968
-Belgium,Korea,52608
-Poland,Thailand,50843
-Estonia,Poland,46474
-Czech Republic,Estonia,43746
-Finland,Saudi Arabia,38710
-Greece,Lithuania,34672
-Spain,United Arab Emirates,34603
-Liechtenstein,Slovak Republic,33776
-Czech Republic,Slovak Republic,32178
-Portugal,Slovenia,30752
-Poland,Colombia,29314
 Japan,Cyprus,27266
 Finland,Romania,26671
-Czech Republic,South Africa,25016
-Greece,Taiwan,24169
-Slovenia,South Africa,21165
-Thailand,South Africa,20992
-Portugal,Slovak Republic,20705
-Iceland,India,20458
-Colombia,Thailand,20249
-Spain,Kuwait,20232
-Czech Republic,Brazil,19072
-Slovak Republic,Thailand,17723
-Canada,Saudi Arabia,16166
-Slovenia,India,15983
-Ireland,Latvia,15001
-Liechtenstein,Latvia,14990
-Slovak Republic,Brazil,14669
-Spain,Saudi Arabia,14214
-Slovak Republic,Taiwan,14202
-Slovak Republic,Hungary,14132
-Ireland,Slovak Republic,13999
-Portugal,Estonia,13279
-Colombia,Colombia,11468
-Liechtenstein,Thailand,11161
-Liechtenstein,Slovenia,10404
-Brazil,Chile,9907
-Belgium,Saudi Arabia,9103
-Sweden,Taiwan,8633
-Brazil,France,8227
-Liechtenstein,Estonia,7689
-Australia,Saudi Arabia,7575
-Australia,Czech Republic,6918
-Spain,Taiwan,5937
-Cyprus,India,5599
-Italy,Taiwan,5324
-Chile,United States,4920
-Thailand,Cyprus,4469
-Greece,United Arab Emirates,4039
-Australia,Poland,3046
-Portugal,Latvia,2592
-Slovak Republic,Chile,2296
-Canada,Kuwait,1568
-Colombia,United States,1019
-Portugal,Saudi Arabia,387
-Chile,Chile,108
-Saudi Arabia,Cyprus,0
-Saudi Arabia,Lithuania,0
-Saudi Arabia,Slovak Republic,0
-Saudi Arabia,United States,0
-Saudi Arabia,South Africa,0
-Saudi Arabia,Colombia,0
-Saudi Arabia,France,0
-Saudi Arabia,Chile,0
-Saudi Arabia,Poland,0
-Saudi Arabia,Czech Republic,0
-Saudi Arabia,Romania,0
-Saudi Arabia,Canada,0
-Saudi Arabia,Australia,0
-Saudi Arabia,Sweden,0
-Saudi Arabia,Hungary,0
-Saudi Arabia,Denmark,0
-Saudi Arabia,Finland,0
-Saudi Arabia,Greece,0
-Saudi Arabia,Austria,0
-Saudi Arabia,Ireland,0
-Saudi Arabia,Japan,0
-Saudi Arabia,Luxembourg,0
-Saudi Arabia,Saudi Arabia,0
-Saudi Arabia,New Zealand,0
-Saudi Arabia,United Kingdom,0
-Saudi Arabia,Belgium,0
-Saudi Arabia,Norway,0
-Saudi Arabia,Italy,0
-Saudi Arabia,Portugal,0
-Saudi Arabia,Qatar,0
-Saudi Arabia,Spain,0
-Saudi Arabia,Kuwait,0
-Saudi Arabia,Liechtenstein,0
-Saudi Arabia,Latvia,0
-Saudi Arabia,Estonia,0
-Saudi Arabia,Iceland,0
-Saudi Arabia,Switzerland,0
-Saudi Arabia,Germany,0
-Saudi Arabia,Slovenia,0
-Saudi Arabia,United Arab Emirates,0
-Kuwait,Brazil,0
-Kuwait,Taiwan,0
-Kuwait,Korea,0
-Kuwait,United States,0
-Kuwait,South Africa,0
-Kuwait,Colombia,0
-Kuwait,France,0
-Kuwait,Chile,0
-Kuwait,Poland,0
-Kuwait,Czech Republic,0
-Kuwait,Romania,0
-Kuwait,Canada,0
-Kuwait,Australia,0
-Kuwait,Sweden,0
-Kuwait,Hungary,0
-Kuwait,Denmark,0
-Kuwait,Finland,0
-Kuwait,Greece,0
-Kuwait,Austria,0
-Kuwait,Ireland,0
-Kuwait,Japan,0
-Kuwait,Luxembourg,0
-Kuwait,Saudi Arabia,0
-Kuwait,New Zealand,0
-Kuwait,United Kingdom,0
-Kuwait,Belgium,0
-Kuwait,Norway,0
-Kuwait,Italy,0
-Kuwait,Portugal,0
-Kuwait,Qatar,0
-Kuwait,Spain,0
-Kuwait,Kuwait,0
-Kuwait,Liechtenstein,0
-Kuwait,Latvia,0
-Kuwait,Estonia,0
-Kuwait,Iceland,0
-Kuwait,Switzerland,0
-Kuwait,Germany,0
-Kuwait,Slovenia,0
-Kuwait,United Arab Emirates,0
-Qatar,India,0
-Qatar,Brazil,0
-Qatar,Taiwan,0
-Qatar,Korea,0
-Qatar,Cyprus,0
-Qatar,Lithuania,0
-Qatar,Thailand,0
-Qatar,Slovak Republic,0
-Qatar,South Africa,0
-Qatar,Colombia,0
-Qatar,France,0
-Qatar,Chile,0
-Qatar,Poland,0
-Qatar,Czech Republic,0
-Qatar,Romania,0
-Qatar,Canada,0
-Qatar,Australia,0
-Qatar,Sweden,0
-Qatar,Hungary,0
-Qatar,Denmark,0
-Qatar,Finland,0
-Qatar,Greece,0
-Qatar,Austria,0
-Qatar,Ireland,0
-Qatar,Japan,0
-Qatar,Luxembourg,0
-Qatar,Saudi Arabia,0
-Qatar,New Zealand,0
-Qatar,United Kingdom,0
-Qatar,Belgium,0
-Qatar,Norway,0
-Qatar,Italy,0
-Qatar,Portugal,0
-Qatar,Qatar,0
-Qatar,Spain,0
-Qatar,Kuwait,0
-Qatar,Liechtenstein,0
-Qatar,Latvia,0
-Qatar,Estonia,0
-Qatar,Iceland,0
-Qatar,Switzerland,0
-Qatar,Germany,0
-Qatar,Slovenia,0
-Qatar,United Arab Emirates,0
-Brazil,India,0
-Brazil,Brazil,0
-Brazil,Taiwan,0
-Brazil,Korea,0
-Brazil,Cyprus,0
-Brazil,Lithuania,0
-Brazil,Thailand,0
-Brazil,Slovak Republic,0
-Brazil,United States,0
-Brazil,Poland,0
-Brazil,Czech Republic,0
-Brazil,Romania,0
-Brazil,Canada,0
-Brazil,Australia,0
-Brazil,Sweden,0
-Brazil,Hungary,0
-Brazil,Denmark,0
-Brazil,Finland,0
-Brazil,Greece,0
-Brazil,Austria,0
-Brazil,Ireland,0
-Brazil,Luxembourg,0
-Brazil,New Zealand,0
-Brazil,United Kingdom,0
-Brazil,Belgium,0
-Brazil,Norway,0
-Brazil,Italy,0
-Brazil,Portugal,0
-Brazil,Qatar,0
-Brazil,Spain,0
-Brazil,Kuwait,0
-Brazil,Liechtenstein,0
-Brazil,Latvia,0
-Brazil,Estonia,0
-Brazil,Iceland,0
-Brazil,Switzerland,0
-Brazil,Germany,0
-Brazil,Slovenia,0
-Brazil,United Arab Emirates,0
-Colombia,India,0
-Colombia,Brazil,0
-Colombia,Taiwan,0
-Colombia,Korea,0
-Colombia,Cyprus,0
-Colombia,Lithuania,0
-Colombia,Slovak Republic,0
-Colombia,South Africa,0
-Colombia,France,0
-Colombia,Poland,0
-Colombia,Czech Republic,0
-Colombia,Romania,0
-Colombia,Canada,0
-Colombia,Australia,0
-Colombia,Sweden,0
-Colombia,Hungary,0
-Colombia,Denmark,0
-Colombia,Finland,0
-Colombia,Greece,0
-Colombia,Austria,0
-Colombia,Ireland,0
-Colombia,Japan,0
-Colombia,Luxembourg,0
-Colombia,Saudi Arabia,0
-Colombia,New Zealand,0
-Colombia,United Kingdom,0
-Colombia,Belgium,0
-Colombia,Norway,0
-Colombia,Italy,0
-Colombia,Portugal,0
-Colombia,Qatar,0
-Colombia,Spain,0
-Colombia,Kuwait,0
-Colombia,Liechtenstein,0
-Colombia,Latvia,0
-Colombia,Estonia,0
-Colombia,Iceland,0
-Colombia,Switzerland,0
-Colombia,Germany,0
-Colombia,Slovenia,0
-Colombia,United Arab Emirates,0
-Estonia,Brazil,0
-Estonia,Taiwan,0
-Estonia,Korea,0
-Estonia,Cyprus,0
-Estonia,Lithuania,0
-Estonia,Thailand,0
-Estonia,Slovak Republic,0
-Estonia,United States,0
-Estonia,South Africa,0
-Estonia,Colombia,0
-Estonia,France,0
-Estonia,Chile,0
-Estonia,Romania,0
-Estonia,Canada,0
-Estonia,Australia,0
-Estonia,Sweden,0
-Estonia,Hungary,0
-Estonia,Denmark,0
-Estonia,Finland,0
-Estonia,Greece,0
-Estonia,Austria,0
-Estonia,Ireland,0
-Estonia,Japan,0
-Estonia,Luxembourg,0
-Estonia,Saudi Arabia,0
-Estonia,New Zealand,0
-Estonia,United Kingdom,0
-Estonia,Belgium,0
-Estonia,Norway,0
-Estonia,Italy,0
-Estonia,Portugal,0
-Estonia,Qatar,0
-Estonia,Spain,0
-Estonia,Kuwait,0
-Estonia,Liechtenstein,0
-Estonia,Latvia,0
-Estonia,Estonia,0
-Estonia,Iceland,0
-Estonia,Switzerland,0
-Estonia,Germany,0
-Estonia,Slovenia,0
-Estonia,United Arab Emirates,0
-Hungary,India,0
-Hungary,Brazil,0
-Hungary,Taiwan,0
-Hungary,Korea,0
-Hungary,Cyprus,0
-Hungary,Lithuania,0
-Hungary,Thailand,0
-Hungary,Slovak Republic,0
-Hungary,United States,0
-Hungary,South Africa,0
-Hungary,Colombia,0
-Hungary,France,0
-Hungary,Chile,0
-Hungary,Poland,0
-Hungary,Czech Republic,0
-Hungary,Australia,0
-Hungary,Sweden,0
-Hungary,Hungary,0
-Hungary,Denmark,0
-Hungary,Finland,0
-Hungary,Greece,0
-Hungary,Austria,0
-Hungary,Ireland,0
-Hungary,Japan,0
-Hungary,Luxembourg,0
-Hungary,Saudi Arabia,0
-Hungary,New Zealand,0
-Hungary,United Kingdom,0
-Hungary,Belgium,0
-Hungary,Norway,0
-Hungary,Italy,0
-Hungary,Portugal,0
-Hungary,Qatar,0
-Hungary,Spain,0
-Hungary,Kuwait,0
-Hungary,Liechtenstein,0
-Hungary,Latvia,0
-Hungary,Estonia,0
-Hungary,Iceland,0
-Hungary,Switzerland,0
-Hungary,Germany,0
-Hungary,Slovenia,0
-Hungary,United Arab Emirates,0
-United States,United States,0
-United States,Switzerland,0
-United States,Germany,0
-Thailand,India,0
-Thailand,Brazil,0
-Thailand,Taiwan,0
-Thailand,Korea,0
-Thailand,Lithuania,0
-Thailand,Thailand,0
-Thailand,Slovak Republic,0
-Thailand,United States,0
-Thailand,Colombia,0
-Thailand,France,0
-Thailand,Chile,0
-Thailand,Poland,0
-Thailand,Czech Republic,0
-Thailand,Romania,0
-Thailand,Canada,0
-Thailand,Australia,0
-Thailand,Sweden,0
-Thailand,Hungary,0
-Thailand,Denmark,0
-Thailand,Finland,0
-Thailand,Greece,0
-Thailand,Austria,0
-Thailand,Ireland,0
-Thailand,Japan,0
-Thailand,Luxembourg,0
-Thailand,Saudi Arabia,0
-Thailand,New Zealand,0
-Thailand,United Kingdom,0
-Thailand,Belgium,0
-Thailand,Norway,0
-Thailand,Italy,0
-Thailand,Portugal,0
-Thailand,Qatar,0
-Thailand,Spain,0
-Thailand,Kuwait,0
-Thailand,Liechtenstein,0
-Thailand,Latvia,0
-Thailand,Estonia,0
-Thailand,Iceland,0
-Thailand,Switzerland,0
-Thailand,Germany,0
-Thailand,Slovenia,0
-Thailand,United Arab Emirates,0
-Liechtenstein,Brazil,0
-Liechtenstein,Taiwan,0
-Liechtenstein,Korea,0
-Liechtenstein,Cyprus,0
-Liechtenstein,United States,0
-Liechtenstein,South Africa,0
-Liechtenstein,France,0
-Liechtenstein,Chile,0
-Liechtenstein,Canada,0
-Liechtenstein,Australia,0
-Liechtenstein,Sweden,0
-Liechtenstein,Denmark,0
-Liechtenstein,Greece,0
-Liechtenstein,Ireland,0
-Liechtenstein,Japan,0
-Liechtenstein,Luxembourg,0
-Liechtenstein,Saudi Arabia,0
-Liechtenstein,New Zealand,0
-Liechtenstein,United Kingdom,0
-Liechtenstein,Belgium,0
-Liechtenstein,Norway,0
-Liechtenstein,Portugal,0
-Liechtenstein,Qatar,0
-Liechtenstein,Spain,0
-Liechtenstein,Kuwait,0
-Liechtenstein,Iceland,0
-Liechtenstein,United Arab Emirates,0
-Slovak Republic,Korea,0
-Slovak Republic,Cyprus,0
-Slovak Republic,Lithuania,0
-Slovak Republic,Slovak Republic,0
-Slovak Republic,United States,0
-Slovak Republic,South Africa,0
-Slovak Republic,Colombia,0
-Slovak Republic,France,0
-Slovak Republic,Poland,0
-Slovak Republic,Czech Republic,0
-Slovak Republic,Romania,0
-Slovak Republic,Canada,0
-Slovak Republic,Australia,0
-Slovak Republic,Sweden,0
-Slovak Republic,Denmark,0
-Slovak Republic,Finland,0
-Slovak Republic,Greece,0
-Slovak Republic,Austria,0
-Slovak Republic,Ireland,0
-Slovak Republic,Japan,0
-Slovak Republic,Luxembourg,0
-Slovak Republic,Saudi Arabia,0
-Slovak Republic,New Zealand,0
-Slovak Republic,United Kingdom,0
-Slovak Republic,Belgium,0
-Slovak Republic,Norway,0
-Slovak Republic,Italy,0
-Slovak Republic,Portugal,0
-Slovak Republic,Qatar,0
-Slovak Republic,Spain,0
-Slovak Republic,Kuwait,0
-Slovak Republic,Liechtenstein,0
-Slovak Republic,Latvia,0
-Slovak Republic,Estonia,0
-Slovak Republic,Iceland,0
-Slovak Republic,Switzerland,0
-Slovak Republic,Germany,0
-Slovak Republic,Slovenia,0
-Slovak Republic,United Arab Emirates,0
-Monaco,India,0
-Monaco,Brazil,0
-Monaco,Taiwan,0
-Monaco,Korea,0
-Monaco,Cyprus,0
-Monaco,Lithuania,0
-Monaco,Thailand,0
-Monaco,Slovak Republic,0
-Monaco,United States,0
-Monaco,Colombia,0
-Monaco,France,0
-Monaco,Chile,0
-Monaco,Poland,0
-Monaco,Czech Republic,0
-Monaco,Romania,0
-Monaco,Canada,0
-Monaco,Australia,0
-Monaco,Sweden,0
-Monaco,Hungary,0
-Monaco,Denmark,0
-Monaco,Finland,0
-Monaco,Greece,0
-Monaco,Austria,0
-Monaco,Ireland,0
-Monaco,Japan,0
-Monaco,Luxembourg,0
-Monaco,Saudi Arabia,0
-Monaco,New Zealand,0
-Monaco,United Kingdom,0
-Monaco,Belgium,0
-Monaco,Norway,0
-Monaco,Italy,0
-Monaco,Qatar,0
-Monaco,Spain,0
-Monaco,Kuwait,0
-Monaco,Liechtenstein,0
-Monaco,Latvia,0
-Monaco,Estonia,0
-Monaco,Iceland,0
-Monaco,Switzerland,0
-Monaco,Germany,0
-Monaco,United Arab Emirates,0
-Chile,India,0
-Chile,Taiwan,0
-Chile,Korea,0
-Chile,Cyprus,0
-Chile,Lithuania,0
-Chile,Thailand,0
-Chile,Slovak Republic,0
-Chile,South Africa,0
-Chile,France,0
-Chile,Poland,0
-Chile,Czech Republic,0
-Chile,Romania,0
-Chile,Canada,0
-Chile,Australia,0
-Chile,Sweden,0
-Chile,Hungary,0
-Chile,Denmark,0
-Chile,Finland,0
-Chile,Greece,0
-Chile,Austria,0
-Chile,Ireland,0
-Chile,Japan,0
-Chile,Luxembourg,0
-Chile,Saudi Arabia,0
-Chile,New Zealand,0
-Chile,United Kingdom,0
-Chile,Belgium,0
-Chile,Norway,0
-Chile,Italy,0
-Chile,Portugal,0
-Chile,Qatar,0
-Chile,Spain,0
-Chile,Kuwait,0
-Chile,Liechtenstein,0
-Chile,Latvia,0
-Chile,Estonia,0
-Chile,Iceland,0
-Chile,Switzerland,0
-Chile,Germany,0
-Chile,Slovenia,0
-Chile,United Arab Emirates,0
-Taiwan,Brazil,0
-Taiwan,Taiwan,0
-Taiwan,Korea,0
-Taiwan,Cyprus,0
-Taiwan,Lithuania,0
-Taiwan,Thailand,0
-Taiwan,Slovak Republic,0
-Taiwan,United States,0
-Taiwan,Colombia,0
-Taiwan,France,0
-Taiwan,Chile,0
-Taiwan,Czech Republic,0
-Taiwan,Romania,0
-Taiwan,Canada,0
-Taiwan,Australia,0
-Taiwan,Sweden,0
-Taiwan,Hungary,0
-Taiwan,Denmark,0
-Taiwan,Finland,0
-Taiwan,Greece,0
-Taiwan,Austria,0
-Taiwan,Ireland,0
-Taiwan,Japan,0
-Taiwan,Luxembourg,0
-Taiwan,New Zealand,0
-Taiwan,United Kingdom,0
-Taiwan,Belgium,0
-Taiwan,Norway,0
-Taiwan,Italy,0
-Taiwan,Portugal,0
-Taiwan,Qatar,0
-Taiwan,Spain,0
-Taiwan,Kuwait,0
-Taiwan,Liechtenstein,0
-Taiwan,Latvia,0
-Taiwan,Estonia,0
-Taiwan,Iceland,0
-Taiwan,Switzerland,0
-Taiwan,Germany,0
-Taiwan,Slovenia,0
-Taiwan,United Arab Emirates,0
-United Arab Emirates,Taiwan,0
-United Arab Emirates,Korea,0
-United Arab Emirates,Cyprus,0
-United Arab Emirates,Lithuania,0
-United Arab Emirates,Slovak Republic,0
-United Arab Emirates,United States,0
-United Arab Emirates,France,0
-United Arab Emirates,Poland,0
-United Arab Emirates,Czech Republic,0
-United Arab Emirates,Romania,0
-United Arab Emirates,Canada,0
-United Arab Emirates,Australia,0
-United Arab Emirates,Sweden,0
-United Arab Emirates,Hungary,0
-United Arab Emirates,Denmark,0
-United Arab Emirates,Finland,0
-United Arab Emirates,Greece,0
-United Arab Emirates,Austria,0
-United Arab Emirates,Ireland,0
-United Arab Emirates,Japan,0
-United Arab Emirates,Luxembourg,0
-United Arab Emirates,Saudi Arabia,0
-United Arab Emirates,New Zealand,0
-United Arab Emirates,United Kingdom,0
-United Arab Emirates,Belgium,0
-United Arab Emirates,Norway,0
-United Arab Emirates,Italy,0
-United Arab Emirates,Portugal,0
-United Arab Emirates,Qatar,0
-United Arab Emirates,Spain,0
-United Arab Emirates,Kuwait,0
-United Arab Emirates,Liechtenstein,0
-United Arab Emirates,Latvia,0
-United Arab Emirates,Estonia,0
-United Arab Emirates,Iceland,0
-United Arab Emirates,Switzerland,0
-United Arab Emirates,Germany,0
-United Arab Emirates,Slovenia,0
-United Arab Emirates,United Arab Emirates,0
-Belgium,United States,0
-Belgium,France,0
-Belgium,Canada,0
-Belgium,Australia,0
-Belgium,Sweden,0
-Belgium,Denmark,0
-Belgium,Finland,0
-Belgium,Greece,0
-Belgium,Austria,0
-Belgium,Ireland,0
-Belgium,Japan,0
-Belgium,Luxembourg,0
-Belgium,New Zealand,0
-Belgium,United Kingdom,0
-Belgium,Belgium,0
-Belgium,Norway,0
-Belgium,Italy,0
-Belgium,Portugal,0
-Belgium,Qatar,0
-Belgium,Spain,0
-Belgium,Kuwait,0
-Belgium,Liechtenstein,0
-Belgium,Iceland,0
-Belgium,Switzerland,0
-Belgium,Germany,0
-Belgium,United Arab Emirates,0
-Japan,United States,0
-Japan,France,0
-Japan,Canada,0
-Japan,Australia,0
-Japan,Sweden,0
-Japan,Denmark,0
-Japan,Finland,0
-Japan,Greece,0
-Japan,Austria,0
-Japan,Ireland,0
-Japan,Japan,0
-Japan,Luxembourg,0
-Japan,New Zealand,0
-Japan,United Kingdom,0
-Japan,Belgium,0
-Japan,Norway,0
-Japan,Italy,0
-Japan,Portugal,0
-Japan,Spain,0
-Japan,Liechtenstein,0
-Japan,Iceland,0
-Japan,Switzerland,0
-Japan,Germany,0
-Austria,United States,0
-Austria,France,0
-Austria,Canada,0
-Austria,Australia,0
-Austria,Sweden,0
-Austria,Denmark,0
-Austria,Finland,0
-Austria,Greece,0
-Austria,Austria,0
-Austria,Ireland,0
-Austria,Japan,0
-Austria,Luxembourg,0
-Austria,New Zealand,0
-Austria,United Kingdom,0
-Austria,Belgium,0
-Austria,Norway,0
-Austria,Italy,0
-Austria,Portugal,0
-Austria,Qatar,0
-Austria,Spain,0
-Austria,Liechtenstein,0
-Austria,Iceland,0
-Austria,Switzerland,0
-Austria,Germany,0
-Italy,United States,0
-Italy,France,0
-Italy,Canada,0
-Italy,Australia,0
-Italy,Sweden,0
-Italy,Denmark,0
-Italy,Finland,0
-Italy,Greece,0
-Italy,Austria,0
-Italy,Ireland,0
-Italy,Japan,0
-Italy,Luxembourg,0
-Italy,New Zealand,0
-Italy,United Kingdom,0
-Italy,Belgium,0
-Italy,Norway,0
-Italy,Italy,0
-Italy,Portugal,0
-Italy,Qatar,0
-Italy,Spain,0
-Italy,Liechtenstein,0
-Italy,Iceland,0
-Italy,Switzerland,0
-Italy,Germany,0
-Germany,United States,0
-Germany,France,0
-Germany,Canada,0
-Germany,Australia,0
-Germany,Sweden,0
-Germany,Denmark,0
-Germany,Finland,0
-Germany,Greece,0
-Germany,Austria,0
-Germany,Ireland,0
-Germany,Japan,0
-Germany,Luxembourg,0
-Germany,New Zealand,0
-Germany,United Kingdom,0
-Germany,Belgium,0
-Germany,Norway,0
-Germany,Italy,0
-Germany,Portugal,0
-Germany,Spain,0
-Germany,Liechtenstein,0
-Germany,Iceland,0
-Germany,Switzerland,0
-Germany,Germany,0
-Sweden,Korea,0
-Sweden,Cyprus,0
-Sweden,United States,0
-Sweden,France,0
-Sweden,Canada,0
-Sweden,Australia,0
-Sweden,Sweden,0
-Sweden,Denmark,0
-Sweden,Finland,0
-Sweden,Greece,0
-Sweden,Austria,0
-Sweden,Ireland,0
-Sweden,Japan,0
-Sweden,Luxembourg,0
-Sweden,Saudi Arabia,0
-Sweden,New Zealand,0
-Sweden,United Kingdom,0
-Sweden,Belgium,0
-Sweden,Norway,0
-Sweden,Italy,0
-Sweden,Portugal,0
-Sweden,Qatar,0
-Sweden,Spain,0
-Sweden,Liechtenstein,0
-Sweden,Iceland,0
-Sweden,Switzerland,0
-Sweden,Germany,0
-Sweden,United Arab Emirates,0
-Luxembourg,Taiwan,0
-Luxembourg,Korea,0
-Luxembourg,Cyprus,0
-Luxembourg,Lithuania,0
-Luxembourg,United States,0
-Luxembourg,France,0
-Luxembourg,Poland,0
-Luxembourg,Canada,0
-Luxembourg,Australia,0
-Luxembourg,Sweden,0
-Luxembourg,Hungary,0
-Luxembourg,Denmark,0
-Luxembourg,Finland,0
-Luxembourg,Greece,0
-Luxembourg,Austria,0
-Luxembourg,Ireland,0
-Luxembourg,Japan,0
-Luxembourg,Luxembourg,0
-Luxembourg,Saudi Arabia,0
-Luxembourg,New Zealand,0
-Luxembourg,United Kingdom,0
-Luxembourg,Belgium,0
-Luxembourg,Norway,0
-Luxembourg,Italy,0
-Luxembourg,Portugal,0
-Luxembourg,Qatar,0
-Luxembourg,Spain,0
-Luxembourg,Kuwait,0
-Luxembourg,Liechtenstein,0
-Luxembourg,Latvia,0
-Luxembourg,Estonia,0
-Luxembourg,Iceland,0
-Luxembourg,Switzerland,0
-Luxembourg,Germany,0
-Luxembourg,Slovenia,0
-Luxembourg,United Arab Emirates,0
-Spain,United States,0
-Spain,France,0
-Spain,Canada,0
-Spain,Australia,0
-Spain,Sweden,0
-Spain,Denmark,0
-Spain,Finland,0
-Spain,Greece,0
-Spain,Austria,0
-Spain,Ireland,0
-Spain,Japan,0
-Spain,Luxembourg,0
-Spain,New Zealand,0
-Spain,United Kingdom,0
-Spain,Belgium,0
-Spain,Norway,0
-Spain,Italy,0
-Spain,Portugal,0
-Spain,Qatar,0
-Spain,Spain,0
-Spain,Liechtenstein,0
-Spain,Iceland,0
-Spain,Switzerland,0
-Spain,Germany,0
-Denmark,Taiwan,0
-Denmark,Korea,0
-Denmark,Cyprus,0
-Denmark,Lithuania,0
-Denmark,Slovak Republic,0
-Denmark,United States,0
-Denmark,France,0
-Denmark,Poland,0
-Denmark,Czech Republic,0
-Denmark,Romania,0
-Denmark,Canada,0
-Denmark,Australia,0
-Denmark,Sweden,0
-Denmark,Hungary,0
-Denmark,Denmark,0
-Denmark,Finland,0
-Denmark,Greece,0
-Denmark,Austria,0
-Denmark,Ireland,0
-Denmark,Japan,0
-Denmark,Luxembourg,0
-Denmark,Saudi Arabia,0
-Denmark,New Zealand,0
-Denmark,United Kingdom,0
-Denmark,Belgium,0
-Denmark,Norway,0
-Denmark,Italy,0
-Denmark,Portugal,0
-Denmark,Qatar,0
-Denmark,Spain,0
-Denmark,Kuwait,0
-Denmark,Liechtenstein,0
-Denmark,Latvia,0
-Denmark,Estonia,0
-Denmark,Iceland,0
-Denmark,Switzerland,0
-Denmark,Germany,0
-Denmark,Slovenia,0
-France,United States,0
-France,France,0
-France,Canada,0
-France,Australia,0
-France,Sweden,0
-France,Denmark,0
-France,Finland,0
-France,Greece,0
-France,Austria,0
-France,Ireland,0
-France,Japan,0
-France,Luxembourg,0
-France,New Zealand,0
-France,United Kingdom,0
-France,Belgium,0
-France,Norway,0
-France,Italy,0
-France,Portugal,0
-France,Spain,0
-France,Liechtenstein,0
-France,Iceland,0
-France,Switzerland,0
-France,Germany,0
-Norway,Taiwan,0
-Norway,Korea,0
-Norway,United States,0
-Norway,France,0
-Norway,Canada,0
-Norway,Australia,0
-Norway,Sweden,0
-Norway,Denmark,0
-Norway,Finland,0
-Norway,Greece,0
-Norway,Austria,0
-Norway,Ireland,0
-Norway,Japan,0
-Norway,Luxembourg,0
-Norway,New Zealand,0
-Norway,United Kingdom,0
-Norway,Belgium,0
-Norway,Norway,0
-Norway,Italy,0
-Norway,Portugal,0
-Norway,Qatar,0
-Norway,Spain,0
-Norway,Kuwait,0
-Norway,Liechtenstein,0
-Norway,Iceland,0
-Norway,Switzerland,0
-Norway,Germany,0
-Norway,United Arab Emirates,0
-Portugal,Taiwan,0
-Portugal,Lithuania,0
-Portugal,United States,0
-Portugal,France,0
-Portugal,Canada,0
-Portugal,Australia,0
-Portugal,Sweden,0
-Portugal,Denmark,0
-Portugal,Finland,0
-Portugal,Greece,0
-Portugal,Austria,0
-Portugal,Ireland,0
-Portugal,Japan,0
-Portugal,Luxembourg,0
-Portugal,New Zealand,0
-Portugal,United Kingdom,0
-Portugal,Belgium,0
-Portugal,Norway,0
-Portugal,Italy,0
-Portugal,Portugal,0
-Portugal,Qatar,0
-Portugal,Spain,0
-Portugal,Kuwait,0
-Portugal,Liechtenstein,0
-Portugal,Iceland,0
-Portugal,Switzerland,0
-Portugal,Germany,0
-Portugal,United Arab Emirates,0
-Switzerland,United States,0
-Switzerland,France,0
-Switzerland,Canada,0
-Switzerland,Australia,0
-Switzerland,Sweden,0
-Switzerland,Denmark,0
-Switzerland,Finland,0
-Switzerland,Greece,0
-Switzerland,Austria,0
-Switzerland,Ireland,0
-Switzerland,Japan,0
-Switzerland,Luxembourg,0
-Switzerland,Saudi Arabia,0
-Switzerland,New Zealand,0
-Switzerland,United Kingdom,0
-Switzerland,Belgium,0
-Switzerland,Norway,0
-Switzerland,Italy,0
-Switzerland,Portugal,0
-Switzerland,Qatar,0
-Switzerland,Spain,0
-Switzerland,Kuwait,0
-Switzerland,Liechtenstein,0
-Switzerland,Iceland,0
-Switzerland,Switzerland,0
-Switzerland,Germany,0
-Switzerland,United Arab Emirates,0
-United Kingdom,United States,0
-United Kingdom,France,0
-United Kingdom,Canada,0
-United Kingdom,Australia,0
-United Kingdom,Sweden,0
-United Kingdom,Denmark,0
-United Kingdom,Finland,0
-United Kingdom,Greece,0
-United Kingdom,Austria,0
-United Kingdom,Ireland,0
-United Kingdom,Japan,0
-United Kingdom,Luxembourg,0
-United Kingdom,New Zealand,0
-United Kingdom,United Kingdom,0
-United Kingdom,Belgium,0
-United Kingdom,Norway,0
-United Kingdom,Italy,0
-United Kingdom,Portugal,0
-United Kingdom,Qatar,0
-United Kingdom,Spain,0
-United Kingdom,Kuwait,0
-United Kingdom,Liechtenstein,0
-United Kingdom,Iceland,0
-United Kingdom,Switzerland,0
-United Kingdom,Germany,0
-United Kingdom,United Arab Emirates,0
-Finland,Taiwan,0
-Finland,Korea,0
 Finland,Cyprus,0
-Finland,United States,0
-Finland,France,0
-Finland,Canada,0
-Finland,Australia,0
-Finland,Sweden,0
-Finland,Denmark,0
-Finland,Finland,0
-Finland,Greece,0
-Finland,Austria,0
-Finland,Ireland,0
-Finland,Japan,0
-Finland,Luxembourg,0
-Finland,New Zealand,0
-Finland,United Kingdom,0
-Finland,Belgium,0
-Finland,Norway,0
-Finland,Italy,0
-Finland,Portugal,0
-Finland,Qatar,0
-Finland,Spain,0
-Finland,Kuwait,0
-Finland,Liechtenstein,0
-Finland,Iceland,0
-Finland,Switzerland,0
-Finland,Germany,0
 Finland,Slovenia,0
-Finland,United Arab Emirates,0
-Ireland,Taiwan,0
-Ireland,Cyprus,0
-Ireland,Lithuania,0
-Ireland,United States,0
-Ireland,France,0
-Ireland,Poland,0
-Ireland,Czech Republic,0
-Ireland,Canada,0
-Ireland,Australia,0
-Ireland,Sweden,0
-Ireland,Denmark,0
-Ireland,Finland,0
-Ireland,Greece,0
-Ireland,Austria,0
-Ireland,Ireland,0
-Ireland,Japan,0
-Ireland,Luxembourg,0
-Ireland,Saudi Arabia,0
-Ireland,New Zealand,0
-Ireland,United Kingdom,0
-Ireland,Belgium,0
-Ireland,Norway,0
-Ireland,Italy,0
-Ireland,Portugal,0
-Ireland,Qatar,0
-Ireland,Spain,0
-Ireland,Kuwait,0
-Ireland,Liechtenstein,0
-Ireland,Estonia,0
-Ireland,Iceland,0
-Ireland,Switzerland,0
-Ireland,Germany,0
-Ireland,Slovenia,0
-Ireland,United Arab Emirates,0
-Australia,Lithuania,0
-Australia,Slovak Republic,0
-Australia,United States,0
-Australia,France,0
-Australia,Romania,0
-Australia,Canada,0
-Australia,Australia,0
-Australia,Sweden,0
-Australia,Denmark,0
-Australia,Finland,0
-Australia,Greece,0
-Australia,Austria,0
-Australia,Ireland,0
-Australia,Japan,0
-Australia,Luxembourg,0
-Australia,New Zealand,0
-Australia,United Kingdom,0
-Australia,Belgium,0
-Australia,Norway,0
-Australia,Italy,0
-Australia,Portugal,0
-Australia,Qatar,0
-Australia,Spain,0
-Australia,Kuwait,0
-Australia,Liechtenstein,0
-Australia,Latvia,0
-Australia,Estonia,0
-Australia,Iceland,0
-Australia,Switzerland,0
-Australia,Germany,0
-Australia,United Arab Emirates,0
-Canada,Taiwan,0
-Canada,United States,0
-Canada,France,0
-Canada,Canada,0
-Canada,Australia,0
-Canada,Sweden,0
-Canada,Denmark,0
-Canada,Finland,0
-Canada,Greece,0
-Canada,Austria,0
-Canada,Ireland,0
-Canada,Japan,0
-Canada,Luxembourg,0
-Canada,New Zealand,0
-Canada,United Kingdom,0
-Canada,Belgium,0
-Canada,Norway,0
-Canada,Italy,0
-Canada,Portugal,0
-Canada,Qatar,0
-Canada,Spain,0
-Canada,Liechtenstein,0
-Canada,Iceland,0
-Canada,Switzerland,0
-Canada,Germany,0
-Canada,United Arab Emirates,0
-Korea,Taiwan,0
-Korea,Korea,0
-Korea,Cyprus,0
-Korea,Lithuania,0
-Korea,Slovak Republic,0
-Korea,United States,0
-Korea,France,0
-Korea,Poland,0
-Korea,Czech Republic,0
-Korea,Romania,0
-Korea,Canada,0
-Korea,Australia,0
-Korea,Sweden,0
-Korea,Hungary,0
-Korea,Denmark,0
-Korea,Finland,0
-Korea,Greece,0
-Korea,Austria,0
-Korea,Ireland,0
-Korea,Japan,0
-Korea,Luxembourg,0
-Korea,New Zealand,0
-Korea,United Kingdom,0
-Korea,Belgium,0
-Korea,Norway,0
-Korea,Italy,0
-Korea,Portugal,0
-Korea,Qatar,0
-Korea,Spain,0
-Korea,Kuwait,0
-Korea,Liechtenstein,0
-Korea,Latvia,0
-Korea,Estonia,0
-Korea,Iceland,0
-Korea,Switzerland,0
-Korea,Germany,0
-Korea,Slovenia,0
-Korea,United Arab Emirates,0
-Greece,United States,0
-Greece,France,0
-Greece,Canada,0
-Greece,Australia,0
-Greece,Sweden,0
-Greece,Denmark,0
-Greece,Finland,0
-Greece,Greece,0
-Greece,Austria,0
-Greece,Ireland,0
-Greece,Japan,0
-Greece,Luxembourg,0
-Greece,New Zealand,0
-Greece,United Kingdom,0
-Greece,Belgium,0
-Greece,Norway,0
-Greece,Italy,0
-Greece,Portugal,0
-Greece,Qatar,0
-Greece,Spain,0
-Greece,Kuwait,0
-Greece,Liechtenstein,0
-Greece,Iceland,0
-Greece,Switzerland,0
-Greece,Germany,0
-Netherlands,Taiwan,0
-Netherlands,United States,0
-Netherlands,France,0
-Netherlands,Canada,0
-Netherlands,Australia,0
-Netherlands,Sweden,0
-Netherlands,Denmark,0
-Netherlands,Finland,0
-Netherlands,Greece,0
-Netherlands,Austria,0
-Netherlands,Ireland,0
-Netherlands,Japan,0
-Netherlands,Luxembourg,0
-Netherlands,New Zealand,0
-Netherlands,United Kingdom,0
-Netherlands,Belgium,0
-Netherlands,Norway,0
-Netherlands,Italy,0
-Netherlands,Portugal,0
-Netherlands,Qatar,0
-Netherlands,Spain,0
-Netherlands,Liechtenstein,0
-Netherlands,Iceland,0
-Netherlands,Switzerland,0
-Netherlands,Germany,0
-Netherlands,United Arab Emirates,0
-New Zealand,Taiwan,0
-New Zealand,Korea,0
-New Zealand,Cyprus,0
-New Zealand,Lithuania,0
-New Zealand,Slovak Republic,0
-New Zealand,United States,0
-New Zealand,France,0
-New Zealand,Poland,0
-New Zealand,Czech Republic,0
+Luxembourg,Hungary,0
+Luxembourg,Cyprus,0
+Luxembourg,Slovenia,0
 New Zealand,Romania,0
-New Zealand,Canada,0
-New Zealand,Australia,0
-New Zealand,Sweden,0
 New Zealand,Hungary,0
-New Zealand,Denmark,0
-New Zealand,Finland,0
-New Zealand,Greece,0
-New Zealand,Austria,0
-New Zealand,Ireland,0
-New Zealand,Japan,0
-New Zealand,Luxembourg,0
-New Zealand,Saudi Arabia,0
-New Zealand,New Zealand,0
-New Zealand,United Kingdom,0
-New Zealand,Belgium,0
-New Zealand,Norway,0
-New Zealand,Italy,0
-New Zealand,Portugal,0
-New Zealand,Qatar,0
-New Zealand,Spain,0
-New Zealand,Liechtenstein,0
-New Zealand,Latvia,0
-New Zealand,Estonia,0
-New Zealand,Iceland,0
-New Zealand,Switzerland,0
-New Zealand,Germany,0
+New Zealand,Cyprus,0
 New Zealand,Slovenia,0
-New Zealand,United Arab Emirates,0
-Cyprus,Brazil,0
-Cyprus,Taiwan,0
-Cyprus,Korea,0
-Cyprus,Cyprus,0
-Cyprus,Lithuania,0
-Cyprus,Thailand,0
-Cyprus,Slovak Republic,0
-Cyprus,United States,0
-Cyprus,South Africa,0
-Cyprus,Colombia,0
-Cyprus,France,0
-Cyprus,Chile,0
-Cyprus,Poland,0
-Cyprus,Czech Republic,0
-Cyprus,Romania,0
-Cyprus,Canada,0
-Cyprus,Australia,0
-Cyprus,Sweden,0
-Cyprus,Hungary,0
-Cyprus,Denmark,0
-Cyprus,Finland,0
-Cyprus,Greece,0
-Cyprus,Austria,0
-Cyprus,Ireland,0
-Cyprus,Japan,0
-Cyprus,Luxembourg,0
-Cyprus,Saudi Arabia,0
-Cyprus,New Zealand,0
-Cyprus,United Kingdom,0
-Cyprus,Belgium,0
-Cyprus,Norway,0
-Cyprus,Italy,0
-Cyprus,Portugal,0
-Cyprus,Qatar,0
-Cyprus,Spain,0
-Cyprus,Kuwait,0
-Cyprus,Liechtenstein,0
-Cyprus,Latvia,0
-Cyprus,Estonia,0
-Cyprus,Iceland,0
-Cyprus,Switzerland,0
-Cyprus,Germany,0
-Cyprus,Slovenia,0
-Cyprus,United Arab Emirates,0
-Czech Republic,Taiwan,0
-Czech Republic,Korea,0
-Czech Republic,Cyprus,0
-Czech Republic,United States,0
-Czech Republic,France,0
-Czech Republic,Poland,0
-Czech Republic,Czech Republic,0
-Czech Republic,Canada,0
-Czech Republic,Australia,0
-Czech Republic,Sweden,0
-Czech Republic,Hungary,0
-Czech Republic,Denmark,0
-Czech Republic,Finland,0
-Czech Republic,Greece,0
-Czech Republic,Austria,0
-Czech Republic,Ireland,0
-Czech Republic,Japan,0
-Czech Republic,Luxembourg,0
-Czech Republic,Saudi Arabia,0
-Czech Republic,New Zealand,0
-Czech Republic,United Kingdom,0
-Czech Republic,Belgium,0
-Czech Republic,Norway,0
-Czech Republic,Italy,0
-Czech Republic,Portugal,0
-Czech Republic,Qatar,0
-Czech Republic,Spain,0
-Czech Republic,Kuwait,0
-Czech Republic,Liechtenstein,0
-Czech Republic,Iceland,0
-Czech Republic,Switzerland,0
-Czech Republic,Germany,0
-Czech Republic,Slovenia,0
-Czech Republic,United Arab Emirates,0
-Slovenia,Brazil,0
-Slovenia,Taiwan,0
-Slovenia,Korea,0
-Slovenia,Cyprus,0
-Slovenia,Lithuania,0
-Slovenia,Thailand,0
-Slovenia,Slovak Republic,0
-Slovenia,United States,0
-Slovenia,France,0
-Slovenia,Chile,0
-Slovenia,Poland,0
-Slovenia,Czech Republic,0
-Slovenia,Romania,0
-Slovenia,Canada,0
-Slovenia,Australia,0
-Slovenia,Sweden,0
-Slovenia,Hungary,0
-Slovenia,Denmark,0
-Slovenia,Finland,0
-Slovenia,Greece,0
-Slovenia,Austria,0
-Slovenia,Ireland,0
-Slovenia,Japan,0
-Slovenia,Luxembourg,0
-Slovenia,Saudi Arabia,0
-Slovenia,New Zealand,0
-Slovenia,United Kingdom,0
-Slovenia,Belgium,0
-Slovenia,Norway,0
-Slovenia,Italy,0
-Slovenia,Portugal,0
-Slovenia,Qatar,0
-Slovenia,Spain,0
-Slovenia,Kuwait,0
-Slovenia,Liechtenstein,0
-Slovenia,Latvia,0
-Slovenia,Estonia,0
-Slovenia,Iceland,0
-Slovenia,Switzerland,0
-Slovenia,Germany,0
-Slovenia,Slovenia,0
-Slovenia,United Arab Emirates,0
-Iceland,Brazil,0
-Iceland,Taiwan,0
-Iceland,Korea,0
-Iceland,Cyprus,0
-Iceland,Lithuania,0
-Iceland,Thailand,0
-Iceland,Slovak Republic,0
-Iceland,United States,0
-Iceland,Colombia,0
-Iceland,France,0
-Iceland,Chile,0
-Iceland,Poland,0
-Iceland,Czech Republic,0
-Iceland,Romania,0
-Iceland,Canada,0
-Iceland,Australia,0
-Iceland,Sweden,0
-Iceland,Hungary,0
-Iceland,Denmark,0
-Iceland,Finland,0
-Iceland,Greece,0
-Iceland,Austria,0
-Iceland,Ireland,0
-Iceland,Japan,0
-Iceland,Luxembourg,0
-Iceland,Saudi Arabia,0
-Iceland,New Zealand,0
-Iceland,United Kingdom,0
-Iceland,Belgium,0
-Iceland,Norway,0
-Iceland,Italy,0
-Iceland,Portugal,0
-Iceland,Qatar,0
-Iceland,Spain,0
-Iceland,Kuwait,0
-Iceland,Liechtenstein,0
-Iceland,Latvia,0
-Iceland,Estonia,0
-Iceland,Iceland,0
-Iceland,Switzerland,0
-Iceland,Germany,0
-Iceland,Slovenia,0
-Iceland,United Arab Emirates,0
-Poland,Taiwan,0
-Poland,Korea,0
-Poland,Cyprus,0
-Poland,Lithuania,0
-Poland,Slovak Republic,0
-Poland,United States,0
-Poland,France,0
-Poland,Chile,0
-Poland,Poland,0
-Poland,Czech Republic,0
-Poland,Romania,0
-Poland,Canada,0
-Poland,Australia,0
-Poland,Sweden,0
-Poland,Hungary,0
-Poland,Denmark,0
-Poland,Finland,0
-Poland,Greece,0
-Poland,Austria,0
-Poland,Ireland,0
-Poland,Japan,0
-Poland,Luxembourg,0
-Poland,Saudi Arabia,0
-Poland,New Zealand,0
-Poland,United Kingdom,0
-Poland,Belgium,0
-Poland,Norway,0
-Poland,Italy,0
-Poland,Portugal,0
-Poland,Qatar,0
-Poland,Spain,0
-Poland,Kuwait,0
-Poland,Liechtenstein,0
-Poland,Latvia,0
-Poland,Estonia,0
-Poland,Iceland,0
-Poland,Switzerland,0
-Poland,Germany,0
-Poland,Slovenia,0
-Poland,United Arab Emirates,0
+Ireland,Cyprus,0
+Ireland,Slovenia,0
+Sweden,Cyprus,0
+Denmark,Romania,0
+Denmark,Hungary,0
+Denmark,Cyprus,0
+Denmark,Slovenia,0
+Australia,Romania,0
