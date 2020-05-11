@@ -1,0 +1,1001 @@
+donor,recipient,purpose,amount
+United States,India,Air transport,2273859378.0
+United States,India,Rail transport,35997362.0
+United States,India,Industrial development,1295117393.0
+United States,India,Power generation/non-renewable sources,1518862446.0
+United States,India,RESCHEDULING AND REFINANCING,0.0
+United States,Thailand,Air transport,1378790278.0
+United States,Thailand,Rail transport,18742.0
+United States,Thailand,Industrial development,1460262364.0
+United States,Thailand,Power generation/non-renewable sources,619621837.0
+United States,Thailand,RESCHEDULING AND REFINANCING,0.0
+United States,Brazil,Air transport,3456194517.0
+United States,Brazil,Rail transport,309560040.0
+United States,Brazil,Industrial development,1785108528.0
+United States,Brazil,Power generation/non-renewable sources,999174363.0
+United States,Brazil,RESCHEDULING AND REFINANCING,0.0
+United States,Colombia,Air transport,221288646.0
+United States,Colombia,Rail transport,154388.0
+United States,Colombia,Industrial development,789030171.0
+United States,Colombia,Power generation/non-renewable sources,1530577061.0
+United States,Colombia,RESCHEDULING AND REFINANCING,0.0
+United States,Korea,Air transport,5260158081.0
+United States,Korea,Rail transport,105533013.0
+United States,Korea,Industrial development,866792664.0
+United States,Korea,Power generation/non-renewable sources,1397886659.0
+United States,Korea,RESCHEDULING AND REFINANCING,0.0
+United States,Poland,Air transport,815085967.0
+United States,Poland,Rail transport,0.0
+United States,Poland,Industrial development,548534715.0
+United States,Poland,Power generation/non-renewable sources,396007.0
+United States,Poland,RESCHEDULING AND REFINANCING,0.0
+United States,South Africa,Air transport,840454769.0
+United States,South Africa,Rail transport,533570.0
+United States,South Africa,Industrial development,9681699.0
+United States,South Africa,Power generation/non-renewable sources,1620571.0
+United States,South Africa,RESCHEDULING AND REFINANCING,0.0
+United States,Kuwait,Air transport,0.0
+United States,Kuwait,Rail transport,0.0
+United States,Kuwait,Industrial development,278059881.0
+United States,Kuwait,Power generation/non-renewable sources,24748632.0
+United States,Kuwait,RESCHEDULING AND REFINANCING,0.0
+United States,Chile,Air transport,777158312.0
+United States,Chile,Rail transport,16601.0
+United States,Chile,Industrial development,675643062.0
+United States,Chile,Power generation/non-renewable sources,67384606.0
+United States,Chile,RESCHEDULING AND REFINANCING,0.0
+United States,Saudi Arabia,Air transport,3423114025.0
+United States,Saudi Arabia,Rail transport,386553.0
+United States,Saudi Arabia,Industrial development,254167658.0
+United States,Saudi Arabia,Power generation/non-renewable sources,126190249.0
+United States,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Japan,India,Air transport,0.0
+Japan,India,Rail transport,11519785524.0
+Japan,India,Industrial development,2540561929.0
+Japan,India,Power generation/non-renewable sources,4087006797.0
+Japan,India,RESCHEDULING AND REFINANCING,0.0
+Japan,Thailand,Air transport,2648319527.0
+Japan,Thailand,Rail transport,5249205847.0
+Japan,Thailand,Industrial development,1348021971.0
+Japan,Thailand,Power generation/non-renewable sources,22364340.0
+Japan,Thailand,RESCHEDULING AND REFINANCING,0.0
+Japan,Brazil,Air transport,100165.0
+Japan,Brazil,Rail transport,1249130.0
+Japan,Brazil,Industrial development,301942282.0
+Japan,Brazil,Power generation/non-renewable sources,0.0
+Japan,Brazil,RESCHEDULING AND REFINANCING,0.0
+Japan,Colombia,Air transport,23.0
+Japan,Colombia,Rail transport,26351.0
+Japan,Colombia,Industrial development,161290.0
+Japan,Colombia,Power generation/non-renewable sources,0.0
+Japan,Colombia,RESCHEDULING AND REFINANCING,0.0
+Japan,Korea,Air transport,0.0
+Japan,Korea,Rail transport,903052049.0
+Japan,Korea,Industrial development,508053866.0
+Japan,Korea,Power generation/non-renewable sources,0.0
+Japan,Korea,RESCHEDULING AND REFINANCING,0.0
+Japan,Poland,Air transport,0.0
+Japan,Poland,Rail transport,0.0
+Japan,Poland,Industrial development,0.0
+Japan,Poland,Power generation/non-renewable sources,0.0
+Japan,Poland,RESCHEDULING AND REFINANCING,0.0
+Japan,South Africa,Air transport,0.0
+Japan,South Africa,Rail transport,65416241.0
+Japan,South Africa,Industrial development,185091.0
+Japan,South Africa,Power generation/non-renewable sources,0.0
+Japan,South Africa,RESCHEDULING AND REFINANCING,0.0
+Japan,Kuwait,Air transport,0.0
+Japan,Kuwait,Rail transport,0.0
+Japan,Kuwait,Industrial development,0.0
+Japan,Kuwait,Power generation/non-renewable sources,0.0
+Japan,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Japan,Chile,Air transport,0.0
+Japan,Chile,Rail transport,67201891.0
+Japan,Chile,Industrial development,5379848.0
+Japan,Chile,Power generation/non-renewable sources,0.0
+Japan,Chile,RESCHEDULING AND REFINANCING,0.0
+Japan,Saudi Arabia,Air transport,0.0
+Japan,Saudi Arabia,Rail transport,0.0
+Japan,Saudi Arabia,Industrial development,222224525.0
+Japan,Saudi Arabia,Power generation/non-renewable sources,0.0
+Japan,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Germany,India,Air transport,0.0
+Germany,India,Rail transport,284985226.0
+Germany,India,Industrial development,1768993054.0
+Germany,India,Power generation/non-renewable sources,1564258419.0
+Germany,India,RESCHEDULING AND REFINANCING,0.0
+Germany,Thailand,Air transport,0.0
+Germany,Thailand,Rail transport,162391210.0
+Germany,Thailand,Industrial development,166368356.0
+Germany,Thailand,Power generation/non-renewable sources,54313899.0
+Germany,Thailand,RESCHEDULING AND REFINANCING,0.0
+Germany,Brazil,Air transport,0.0
+Germany,Brazil,Rail transport,39749314.0
+Germany,Brazil,Industrial development,82355164.0
+Germany,Brazil,Power generation/non-renewable sources,0.0
+Germany,Brazil,RESCHEDULING AND REFINANCING,0.0
+Germany,Colombia,Air transport,15829434.0
+Germany,Colombia,Rail transport,191557984.0
+Germany,Colombia,Industrial development,53036463.0
+Germany,Colombia,Power generation/non-renewable sources,33166434.0
+Germany,Colombia,RESCHEDULING AND REFINANCING,0.0
+Germany,Korea,Air transport,0.0
+Germany,Korea,Rail transport,29015007.0
+Germany,Korea,Industrial development,75072695.0
+Germany,Korea,Power generation/non-renewable sources,0.0
+Germany,Korea,RESCHEDULING AND REFINANCING,0.0
+Germany,Poland,Air transport,0.0
+Germany,Poland,Rail transport,0.0
+Germany,Poland,Industrial development,0.0
+Germany,Poland,Power generation/non-renewable sources,0.0
+Germany,Poland,RESCHEDULING AND REFINANCING,13905028436.0
+Germany,South Africa,Air transport,0.0
+Germany,South Africa,Rail transport,0.0
+Germany,South Africa,Industrial development,937574.0
+Germany,South Africa,Power generation/non-renewable sources,0.0
+Germany,South Africa,RESCHEDULING AND REFINANCING,0.0
+Germany,Kuwait,Air transport,0.0
+Germany,Kuwait,Rail transport,0.0
+Germany,Kuwait,Industrial development,0.0
+Germany,Kuwait,Power generation/non-renewable sources,0.0
+Germany,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Germany,Chile,Air transport,0.0
+Germany,Chile,Rail transport,0.0
+Germany,Chile,Industrial development,12253925.0
+Germany,Chile,Power generation/non-renewable sources,0.0
+Germany,Chile,RESCHEDULING AND REFINANCING,0.0
+Germany,Saudi Arabia,Air transport,0.0
+Germany,Saudi Arabia,Rail transport,0.0
+Germany,Saudi Arabia,Industrial development,0.0
+Germany,Saudi Arabia,Power generation/non-renewable sources,0.0
+Germany,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,India,Air transport,226060281.0
+United Kingdom,India,Rail transport,214915085.0
+United Kingdom,India,Industrial development,141881911.0
+United Kingdom,India,Power generation/non-renewable sources,621381168.0
+United Kingdom,India,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,Thailand,Air transport,0.0
+United Kingdom,Thailand,Rail transport,12874688.0
+United Kingdom,Thailand,Industrial development,123175026.0
+United Kingdom,Thailand,Power generation/non-renewable sources,0.0
+United Kingdom,Thailand,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,Brazil,Air transport,0.0
+United Kingdom,Brazil,Rail transport,0.0
+United Kingdom,Brazil,Industrial development,39174808.0
+United Kingdom,Brazil,Power generation/non-renewable sources,98816805.0
+United Kingdom,Brazil,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,Colombia,Air transport,0.0
+United Kingdom,Colombia,Rail transport,0.0
+United Kingdom,Colombia,Industrial development,1214104.0
+United Kingdom,Colombia,Power generation/non-renewable sources,10098161.0
+United Kingdom,Colombia,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,Korea,Air transport,0.0
+United Kingdom,Korea,Rail transport,0.0
+United Kingdom,Korea,Industrial development,0.0
+United Kingdom,Korea,Power generation/non-renewable sources,0.0
+United Kingdom,Korea,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,Poland,Air transport,2702617.0
+United Kingdom,Poland,Rail transport,411633.0
+United Kingdom,Poland,Industrial development,37674165.0
+United Kingdom,Poland,Power generation/non-renewable sources,0.0
+United Kingdom,Poland,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,South Africa,Air transport,0.0
+United Kingdom,South Africa,Rail transport,0.0
+United Kingdom,South Africa,Industrial development,29567081.0
+United Kingdom,South Africa,Power generation/non-renewable sources,68659652.0
+United Kingdom,South Africa,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,Kuwait,Air transport,0.0
+United Kingdom,Kuwait,Rail transport,0.0
+United Kingdom,Kuwait,Industrial development,0.0
+United Kingdom,Kuwait,Power generation/non-renewable sources,0.0
+United Kingdom,Kuwait,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,Chile,Air transport,0.0
+United Kingdom,Chile,Rail transport,0.0
+United Kingdom,Chile,Industrial development,0.0
+United Kingdom,Chile,Power generation/non-renewable sources,0.0
+United Kingdom,Chile,RESCHEDULING AND REFINANCING,0.0
+United Kingdom,Saudi Arabia,Air transport,0.0
+United Kingdom,Saudi Arabia,Rail transport,0.0
+United Kingdom,Saudi Arabia,Industrial development,0.0
+United Kingdom,Saudi Arabia,Power generation/non-renewable sources,0.0
+United Kingdom,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+France,India,Air transport,93048552.0
+France,India,Rail transport,165780050.0
+France,India,Industrial development,736412685.0
+France,India,Power generation/non-renewable sources,238543251.0
+France,India,RESCHEDULING AND REFINANCING,0.0
+France,Thailand,Air transport,638493.0
+France,Thailand,Rail transport,109211256.0
+France,Thailand,Industrial development,23981834.0
+France,Thailand,Power generation/non-renewable sources,9766637.0
+France,Thailand,RESCHEDULING AND REFINANCING,0.0
+France,Brazil,Air transport,0.0
+France,Brazil,Rail transport,111245166.0
+France,Brazil,Industrial development,0.0
+France,Brazil,Power generation/non-renewable sources,0.0
+France,Brazil,RESCHEDULING AND REFINANCING,0.0
+France,Colombia,Air transport,19509180.0
+France,Colombia,Rail transport,187097740.0
+France,Colombia,Industrial development,11935741.0
+France,Colombia,Power generation/non-renewable sources,0.0
+France,Colombia,RESCHEDULING AND REFINANCING,0.0
+France,Korea,Air transport,0.0
+France,Korea,Rail transport,22092.0
+France,Korea,Industrial development,28328996.0
+France,Korea,Power generation/non-renewable sources,0.0
+France,Korea,RESCHEDULING AND REFINANCING,0.0
+France,Poland,Air transport,0.0
+France,Poland,Rail transport,1262932.0
+France,Poland,Industrial development,2174876.0
+France,Poland,Power generation/non-renewable sources,0.0
+France,Poland,RESCHEDULING AND REFINANCING,0.0
+France,South Africa,Air transport,2331311.0
+France,South Africa,Rail transport,1034209.0
+France,South Africa,Industrial development,0.0
+France,South Africa,Power generation/non-renewable sources,0.0
+France,South Africa,RESCHEDULING AND REFINANCING,0.0
+France,Kuwait,Air transport,0.0
+France,Kuwait,Rail transport,0.0
+France,Kuwait,Industrial development,0.0
+France,Kuwait,Power generation/non-renewable sources,0.0
+France,Kuwait,RESCHEDULING AND REFINANCING,0.0
+France,Chile,Air transport,859097.0
+France,Chile,Rail transport,138444885.0
+France,Chile,Industrial development,524894.0
+France,Chile,Power generation/non-renewable sources,0.0
+France,Chile,RESCHEDULING AND REFINANCING,0.0
+France,Saudi Arabia,Air transport,0.0
+France,Saudi Arabia,Rail transport,0.0
+France,Saudi Arabia,Industrial development,0.0
+France,Saudi Arabia,Power generation/non-renewable sources,0.0
+France,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Netherlands,India,Air transport,704628.0
+Netherlands,India,Rail transport,42065271.0
+Netherlands,India,Industrial development,50767936.0
+Netherlands,India,Power generation/non-renewable sources,724396.0
+Netherlands,India,RESCHEDULING AND REFINANCING,0.0
+Netherlands,Thailand,Air transport,0.0
+Netherlands,Thailand,Rail transport,0.0
+Netherlands,Thailand,Industrial development,13813129.0
+Netherlands,Thailand,Power generation/non-renewable sources,0.0
+Netherlands,Thailand,RESCHEDULING AND REFINANCING,0.0
+Netherlands,Brazil,Air transport,0.0
+Netherlands,Brazil,Rail transport,0.0
+Netherlands,Brazil,Industrial development,0.0
+Netherlands,Brazil,Power generation/non-renewable sources,0.0
+Netherlands,Brazil,RESCHEDULING AND REFINANCING,0.0
+Netherlands,Colombia,Air transport,0.0
+Netherlands,Colombia,Rail transport,0.0
+Netherlands,Colombia,Industrial development,2025344.0
+Netherlands,Colombia,Power generation/non-renewable sources,0.0
+Netherlands,Colombia,RESCHEDULING AND REFINANCING,0.0
+Netherlands,Korea,Air transport,0.0
+Netherlands,Korea,Rail transport,0.0
+Netherlands,Korea,Industrial development,0.0
+Netherlands,Korea,Power generation/non-renewable sources,0.0
+Netherlands,Korea,RESCHEDULING AND REFINANCING,0.0
+Netherlands,Poland,Air transport,0.0
+Netherlands,Poland,Rail transport,0.0
+Netherlands,Poland,Industrial development,0.0
+Netherlands,Poland,Power generation/non-renewable sources,0.0
+Netherlands,Poland,RESCHEDULING AND REFINANCING,0.0
+Netherlands,South Africa,Air transport,0.0
+Netherlands,South Africa,Rail transport,0.0
+Netherlands,South Africa,Industrial development,1380782.0
+Netherlands,South Africa,Power generation/non-renewable sources,0.0
+Netherlands,South Africa,RESCHEDULING AND REFINANCING,0.0
+Netherlands,Kuwait,Air transport,0.0
+Netherlands,Kuwait,Rail transport,0.0
+Netherlands,Kuwait,Industrial development,0.0
+Netherlands,Kuwait,Power generation/non-renewable sources,0.0
+Netherlands,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Netherlands,Chile,Air transport,0.0
+Netherlands,Chile,Rail transport,0.0
+Netherlands,Chile,Industrial development,0.0
+Netherlands,Chile,Power generation/non-renewable sources,0.0
+Netherlands,Chile,RESCHEDULING AND REFINANCING,0.0
+Netherlands,Saudi Arabia,Air transport,0.0
+Netherlands,Saudi Arabia,Rail transport,0.0
+Netherlands,Saudi Arabia,Industrial development,0.0
+Netherlands,Saudi Arabia,Power generation/non-renewable sources,0.0
+Netherlands,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Canada,India,Air transport,14224407.0
+Canada,India,Rail transport,159410.0
+Canada,India,Industrial development,54685827.0
+Canada,India,Power generation/non-renewable sources,19357050.0
+Canada,India,RESCHEDULING AND REFINANCING,0.0
+Canada,Thailand,Air transport,443224.0
+Canada,Thailand,Rail transport,0.0
+Canada,Thailand,Industrial development,70008809.0
+Canada,Thailand,Power generation/non-renewable sources,26416174.0
+Canada,Thailand,RESCHEDULING AND REFINANCING,0.0
+Canada,Brazil,Air transport,0.0
+Canada,Brazil,Rail transport,17693.0
+Canada,Brazil,Industrial development,29748658.0
+Canada,Brazil,Power generation/non-renewable sources,6054352.0
+Canada,Brazil,RESCHEDULING AND REFINANCING,0.0
+Canada,Colombia,Air transport,0.0
+Canada,Colombia,Rail transport,0.0
+Canada,Colombia,Industrial development,23245209.0
+Canada,Colombia,Power generation/non-renewable sources,0.0
+Canada,Colombia,RESCHEDULING AND REFINANCING,0.0
+Canada,Korea,Air transport,0.0
+Canada,Korea,Rail transport,0.0
+Canada,Korea,Industrial development,0.0
+Canada,Korea,Power generation/non-renewable sources,0.0
+Canada,Korea,RESCHEDULING AND REFINANCING,0.0
+Canada,Poland,Air transport,1476778.0
+Canada,Poland,Rail transport,0.0
+Canada,Poland,Industrial development,3662485.0
+Canada,Poland,Power generation/non-renewable sources,56107.0
+Canada,Poland,RESCHEDULING AND REFINANCING,0.0
+Canada,South Africa,Air transport,0.0
+Canada,South Africa,Rail transport,0.0
+Canada,South Africa,Industrial development,26700909.0
+Canada,South Africa,Power generation/non-renewable sources,0.0
+Canada,South Africa,RESCHEDULING AND REFINANCING,0.0
+Canada,Kuwait,Air transport,0.0
+Canada,Kuwait,Rail transport,0.0
+Canada,Kuwait,Industrial development,0.0
+Canada,Kuwait,Power generation/non-renewable sources,0.0
+Canada,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Canada,Chile,Air transport,0.0
+Canada,Chile,Rail transport,0.0
+Canada,Chile,Industrial development,18676468.0
+Canada,Chile,Power generation/non-renewable sources,0.0
+Canada,Chile,RESCHEDULING AND REFINANCING,0.0
+Canada,Saudi Arabia,Air transport,0.0
+Canada,Saudi Arabia,Rail transport,0.0
+Canada,Saudi Arabia,Industrial development,0.0
+Canada,Saudi Arabia,Power generation/non-renewable sources,0.0
+Canada,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Sweden,India,Air transport,0.0
+Sweden,India,Rail transport,4306879.0
+Sweden,India,Industrial development,12572753.0
+Sweden,India,Power generation/non-renewable sources,26060699.0
+Sweden,India,RESCHEDULING AND REFINANCING,0.0
+Sweden,Thailand,Air transport,0.0
+Sweden,Thailand,Rail transport,0.0
+Sweden,Thailand,Industrial development,13259316.0
+Sweden,Thailand,Power generation/non-renewable sources,0.0
+Sweden,Thailand,RESCHEDULING AND REFINANCING,0.0
+Sweden,Brazil,Air transport,0.0
+Sweden,Brazil,Rail transport,0.0
+Sweden,Brazil,Industrial development,0.0
+Sweden,Brazil,Power generation/non-renewable sources,0.0
+Sweden,Brazil,RESCHEDULING AND REFINANCING,0.0
+Sweden,Colombia,Air transport,0.0
+Sweden,Colombia,Rail transport,0.0
+Sweden,Colombia,Industrial development,0.0
+Sweden,Colombia,Power generation/non-renewable sources,0.0
+Sweden,Colombia,RESCHEDULING AND REFINANCING,0.0
+Sweden,Korea,Air transport,0.0
+Sweden,Korea,Rail transport,0.0
+Sweden,Korea,Industrial development,0.0
+Sweden,Korea,Power generation/non-renewable sources,0.0
+Sweden,Korea,RESCHEDULING AND REFINANCING,0.0
+Sweden,Poland,Air transport,250129.0
+Sweden,Poland,Rail transport,383.0
+Sweden,Poland,Industrial development,589007.0
+Sweden,Poland,Power generation/non-renewable sources,0.0
+Sweden,Poland,RESCHEDULING AND REFINANCING,0.0
+Sweden,South Africa,Air transport,0.0
+Sweden,South Africa,Rail transport,0.0
+Sweden,South Africa,Industrial development,1198432.0
+Sweden,South Africa,Power generation/non-renewable sources,64374.0
+Sweden,South Africa,RESCHEDULING AND REFINANCING,0.0
+Sweden,Kuwait,Air transport,0.0
+Sweden,Kuwait,Rail transport,0.0
+Sweden,Kuwait,Industrial development,0.0
+Sweden,Kuwait,Power generation/non-renewable sources,0.0
+Sweden,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Sweden,Chile,Air transport,0.0
+Sweden,Chile,Rail transport,0.0
+Sweden,Chile,Industrial development,1084383.0
+Sweden,Chile,Power generation/non-renewable sources,0.0
+Sweden,Chile,RESCHEDULING AND REFINANCING,0.0
+Sweden,Saudi Arabia,Air transport,0.0
+Sweden,Saudi Arabia,Rail transport,0.0
+Sweden,Saudi Arabia,Industrial development,0.0
+Sweden,Saudi Arabia,Power generation/non-renewable sources,0.0
+Sweden,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Norway,India,Air transport,2316419.0
+Norway,India,Rail transport,0.0
+Norway,India,Industrial development,160646315.0
+Norway,India,Power generation/non-renewable sources,322.0
+Norway,India,RESCHEDULING AND REFINANCING,0.0
+Norway,Thailand,Air transport,60502.0
+Norway,Thailand,Rail transport,0.0
+Norway,Thailand,Industrial development,6304303.0
+Norway,Thailand,Power generation/non-renewable sources,0.0
+Norway,Thailand,RESCHEDULING AND REFINANCING,0.0
+Norway,Brazil,Air transport,0.0
+Norway,Brazil,Rail transport,0.0
+Norway,Brazil,Industrial development,80831.0
+Norway,Brazil,Power generation/non-renewable sources,0.0
+Norway,Brazil,RESCHEDULING AND REFINANCING,0.0
+Norway,Colombia,Air transport,0.0
+Norway,Colombia,Rail transport,0.0
+Norway,Colombia,Industrial development,0.0
+Norway,Colombia,Power generation/non-renewable sources,0.0
+Norway,Colombia,RESCHEDULING AND REFINANCING,0.0
+Norway,Korea,Air transport,0.0
+Norway,Korea,Rail transport,0.0
+Norway,Korea,Industrial development,0.0
+Norway,Korea,Power generation/non-renewable sources,0.0
+Norway,Korea,RESCHEDULING AND REFINANCING,0.0
+Norway,Poland,Air transport,0.0
+Norway,Poland,Rail transport,0.0
+Norway,Poland,Industrial development,0.0
+Norway,Poland,Power generation/non-renewable sources,0.0
+Norway,Poland,RESCHEDULING AND REFINANCING,0.0
+Norway,South Africa,Air transport,13527.0
+Norway,South Africa,Rail transport,24172.0
+Norway,South Africa,Industrial development,15424548.0
+Norway,South Africa,Power generation/non-renewable sources,13640.0
+Norway,South Africa,RESCHEDULING AND REFINANCING,0.0
+Norway,Kuwait,Air transport,0.0
+Norway,Kuwait,Rail transport,0.0
+Norway,Kuwait,Industrial development,0.0
+Norway,Kuwait,Power generation/non-renewable sources,0.0
+Norway,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Norway,Chile,Air transport,0.0
+Norway,Chile,Rail transport,0.0
+Norway,Chile,Industrial development,392917.0
+Norway,Chile,Power generation/non-renewable sources,0.0
+Norway,Chile,RESCHEDULING AND REFINANCING,0.0
+Norway,Saudi Arabia,Air transport,0.0
+Norway,Saudi Arabia,Rail transport,0.0
+Norway,Saudi Arabia,Industrial development,0.0
+Norway,Saudi Arabia,Power generation/non-renewable sources,0.0
+Norway,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Italy,India,Air transport,0.0
+Italy,India,Rail transport,0.0
+Italy,India,Industrial development,254284699.0
+Italy,India,Power generation/non-renewable sources,0.0
+Italy,India,RESCHEDULING AND REFINANCING,0.0
+Italy,Thailand,Air transport,0.0
+Italy,Thailand,Rail transport,1488852.0
+Italy,Thailand,Industrial development,0.0
+Italy,Thailand,Power generation/non-renewable sources,0.0
+Italy,Thailand,RESCHEDULING AND REFINANCING,0.0
+Italy,Brazil,Air transport,0.0
+Italy,Brazil,Rail transport,0.0
+Italy,Brazil,Industrial development,780657.0
+Italy,Brazil,Power generation/non-renewable sources,15677.0
+Italy,Brazil,RESCHEDULING AND REFINANCING,0.0
+Italy,Colombia,Air transport,12425310.0
+Italy,Colombia,Rail transport,0.0
+Italy,Colombia,Industrial development,8956908.0
+Italy,Colombia,Power generation/non-renewable sources,30399251.0
+Italy,Colombia,RESCHEDULING AND REFINANCING,0.0
+Italy,Korea,Air transport,0.0
+Italy,Korea,Rail transport,0.0
+Italy,Korea,Industrial development,0.0
+Italy,Korea,Power generation/non-renewable sources,0.0
+Italy,Korea,RESCHEDULING AND REFINANCING,0.0
+Italy,Poland,Air transport,0.0
+Italy,Poland,Rail transport,1342614.0
+Italy,Poland,Industrial development,5914647.0
+Italy,Poland,Power generation/non-renewable sources,0.0
+Italy,Poland,RESCHEDULING AND REFINANCING,0.0
+Italy,South Africa,Air transport,0.0
+Italy,South Africa,Rail transport,0.0
+Italy,South Africa,Industrial development,0.0
+Italy,South Africa,Power generation/non-renewable sources,0.0
+Italy,South Africa,RESCHEDULING AND REFINANCING,0.0
+Italy,Kuwait,Air transport,0.0
+Italy,Kuwait,Rail transport,0.0
+Italy,Kuwait,Industrial development,0.0
+Italy,Kuwait,Power generation/non-renewable sources,0.0
+Italy,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Italy,Chile,Air transport,0.0
+Italy,Chile,Rail transport,0.0
+Italy,Chile,Industrial development,569118.0
+Italy,Chile,Power generation/non-renewable sources,0.0
+Italy,Chile,RESCHEDULING AND REFINANCING,0.0
+Italy,Saudi Arabia,Air transport,0.0
+Italy,Saudi Arabia,Rail transport,0.0
+Italy,Saudi Arabia,Industrial development,0.0
+Italy,Saudi Arabia,Power generation/non-renewable sources,0.0
+Italy,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Denmark,India,Air transport,0.0
+Denmark,India,Rail transport,0.0
+Denmark,India,Industrial development,160372258.0
+Denmark,India,Power generation/non-renewable sources,0.0
+Denmark,India,RESCHEDULING AND REFINANCING,0.0
+Denmark,Thailand,Air transport,0.0
+Denmark,Thailand,Rail transport,5010773.0
+Denmark,Thailand,Industrial development,7334447.0
+Denmark,Thailand,Power generation/non-renewable sources,593723.0
+Denmark,Thailand,RESCHEDULING AND REFINANCING,0.0
+Denmark,Brazil,Air transport,0.0
+Denmark,Brazil,Rail transport,0.0
+Denmark,Brazil,Industrial development,0.0
+Denmark,Brazil,Power generation/non-renewable sources,0.0
+Denmark,Brazil,RESCHEDULING AND REFINANCING,0.0
+Denmark,Colombia,Air transport,0.0
+Denmark,Colombia,Rail transport,0.0
+Denmark,Colombia,Industrial development,200450.0
+Denmark,Colombia,Power generation/non-renewable sources,0.0
+Denmark,Colombia,RESCHEDULING AND REFINANCING,0.0
+Denmark,Korea,Air transport,0.0
+Denmark,Korea,Rail transport,0.0
+Denmark,Korea,Industrial development,0.0
+Denmark,Korea,Power generation/non-renewable sources,0.0
+Denmark,Korea,RESCHEDULING AND REFINANCING,0.0
+Denmark,Poland,Air transport,0.0
+Denmark,Poland,Rail transport,0.0
+Denmark,Poland,Industrial development,0.0
+Denmark,Poland,Power generation/non-renewable sources,0.0
+Denmark,Poland,RESCHEDULING AND REFINANCING,0.0
+Denmark,South Africa,Air transport,0.0
+Denmark,South Africa,Rail transport,0.0
+Denmark,South Africa,Industrial development,4467244.0
+Denmark,South Africa,Power generation/non-renewable sources,0.0
+Denmark,South Africa,RESCHEDULING AND REFINANCING,0.0
+Denmark,Kuwait,Air transport,0.0
+Denmark,Kuwait,Rail transport,0.0
+Denmark,Kuwait,Industrial development,0.0
+Denmark,Kuwait,Power generation/non-renewable sources,0.0
+Denmark,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Denmark,Chile,Air transport,0.0
+Denmark,Chile,Rail transport,0.0
+Denmark,Chile,Industrial development,0.0
+Denmark,Chile,Power generation/non-renewable sources,0.0
+Denmark,Chile,RESCHEDULING AND REFINANCING,0.0
+Denmark,Saudi Arabia,Air transport,0.0
+Denmark,Saudi Arabia,Rail transport,0.0
+Denmark,Saudi Arabia,Industrial development,0.0
+Denmark,Saudi Arabia,Power generation/non-renewable sources,0.0
+Denmark,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Switzerland,India,Air transport,0.0
+Switzerland,India,Rail transport,0.0
+Switzerland,India,Industrial development,76369785.0
+Switzerland,India,Power generation/non-renewable sources,0.0
+Switzerland,India,RESCHEDULING AND REFINANCING,0.0
+Switzerland,Thailand,Air transport,0.0
+Switzerland,Thailand,Rail transport,0.0
+Switzerland,Thailand,Industrial development,0.0
+Switzerland,Thailand,Power generation/non-renewable sources,6063103.0
+Switzerland,Thailand,RESCHEDULING AND REFINANCING,0.0
+Switzerland,Brazil,Air transport,0.0
+Switzerland,Brazil,Rail transport,0.0
+Switzerland,Brazil,Industrial development,1034972.0
+Switzerland,Brazil,Power generation/non-renewable sources,0.0
+Switzerland,Brazil,RESCHEDULING AND REFINANCING,0.0
+Switzerland,Colombia,Air transport,0.0
+Switzerland,Colombia,Rail transport,0.0
+Switzerland,Colombia,Industrial development,743149.0
+Switzerland,Colombia,Power generation/non-renewable sources,0.0
+Switzerland,Colombia,RESCHEDULING AND REFINANCING,0.0
+Switzerland,Korea,Air transport,0.0
+Switzerland,Korea,Rail transport,0.0
+Switzerland,Korea,Industrial development,0.0
+Switzerland,Korea,Power generation/non-renewable sources,0.0
+Switzerland,Korea,RESCHEDULING AND REFINANCING,0.0
+Switzerland,Poland,Air transport,0.0
+Switzerland,Poland,Rail transport,0.0
+Switzerland,Poland,Industrial development,0.0
+Switzerland,Poland,Power generation/non-renewable sources,0.0
+Switzerland,Poland,RESCHEDULING AND REFINANCING,0.0
+Switzerland,South Africa,Air transport,0.0
+Switzerland,South Africa,Rail transport,0.0
+Switzerland,South Africa,Industrial development,2665028.0
+Switzerland,South Africa,Power generation/non-renewable sources,0.0
+Switzerland,South Africa,RESCHEDULING AND REFINANCING,0.0
+Switzerland,Kuwait,Air transport,0.0
+Switzerland,Kuwait,Rail transport,0.0
+Switzerland,Kuwait,Industrial development,0.0
+Switzerland,Kuwait,Power generation/non-renewable sources,0.0
+Switzerland,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Switzerland,Chile,Air transport,0.0
+Switzerland,Chile,Rail transport,0.0
+Switzerland,Chile,Industrial development,1984348.0
+Switzerland,Chile,Power generation/non-renewable sources,0.0
+Switzerland,Chile,RESCHEDULING AND REFINANCING,0.0
+Switzerland,Saudi Arabia,Air transport,0.0
+Switzerland,Saudi Arabia,Rail transport,0.0
+Switzerland,Saudi Arabia,Industrial development,0.0
+Switzerland,Saudi Arabia,Power generation/non-renewable sources,0.0
+Switzerland,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Australia,India,Air transport,0.0
+Australia,India,Rail transport,2671116.0
+Australia,India,Industrial development,24434534.0
+Australia,India,Power generation/non-renewable sources,3917484.0
+Australia,India,RESCHEDULING AND REFINANCING,0.0
+Australia,Thailand,Air transport,75135.0
+Australia,Thailand,Rail transport,36367087.0
+Australia,Thailand,Industrial development,26897.0
+Australia,Thailand,Power generation/non-renewable sources,270795.0
+Australia,Thailand,RESCHEDULING AND REFINANCING,0.0
+Australia,Brazil,Air transport,0.0
+Australia,Brazil,Rail transport,0.0
+Australia,Brazil,Industrial development,0.0
+Australia,Brazil,Power generation/non-renewable sources,0.0
+Australia,Brazil,RESCHEDULING AND REFINANCING,0.0
+Australia,Colombia,Air transport,0.0
+Australia,Colombia,Rail transport,0.0
+Australia,Colombia,Industrial development,0.0
+Australia,Colombia,Power generation/non-renewable sources,0.0
+Australia,Colombia,RESCHEDULING AND REFINANCING,0.0
+Australia,Korea,Air transport,0.0
+Australia,Korea,Rail transport,0.0
+Australia,Korea,Industrial development,0.0
+Australia,Korea,Power generation/non-renewable sources,0.0
+Australia,Korea,RESCHEDULING AND REFINANCING,0.0
+Australia,Poland,Air transport,0.0
+Australia,Poland,Rail transport,0.0
+Australia,Poland,Industrial development,0.0
+Australia,Poland,Power generation/non-renewable sources,0.0
+Australia,Poland,RESCHEDULING AND REFINANCING,0.0
+Australia,South Africa,Air transport,0.0
+Australia,South Africa,Rail transport,0.0
+Australia,South Africa,Industrial development,91287.0
+Australia,South Africa,Power generation/non-renewable sources,0.0
+Australia,South Africa,RESCHEDULING AND REFINANCING,0.0
+Australia,Kuwait,Air transport,0.0
+Australia,Kuwait,Rail transport,0.0
+Australia,Kuwait,Industrial development,0.0
+Australia,Kuwait,Power generation/non-renewable sources,0.0
+Australia,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Australia,Chile,Air transport,0.0
+Australia,Chile,Rail transport,0.0
+Australia,Chile,Industrial development,0.0
+Australia,Chile,Power generation/non-renewable sources,0.0
+Australia,Chile,RESCHEDULING AND REFINANCING,0.0
+Australia,Saudi Arabia,Air transport,0.0
+Australia,Saudi Arabia,Rail transport,0.0
+Australia,Saudi Arabia,Industrial development,0.0
+Australia,Saudi Arabia,Power generation/non-renewable sources,0.0
+Australia,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Belgium,India,Air transport,0.0
+Belgium,India,Rail transport,0.0
+Belgium,India,Industrial development,223779.0
+Belgium,India,Power generation/non-renewable sources,859652.0
+Belgium,India,RESCHEDULING AND REFINANCING,0.0
+Belgium,Thailand,Air transport,125252.0
+Belgium,Thailand,Rail transport,430774.0
+Belgium,Thailand,Industrial development,3765246.0
+Belgium,Thailand,Power generation/non-renewable sources,0.0
+Belgium,Thailand,RESCHEDULING AND REFINANCING,0.0
+Belgium,Brazil,Air transport,0.0
+Belgium,Brazil,Rail transport,0.0
+Belgium,Brazil,Industrial development,1152172.0
+Belgium,Brazil,Power generation/non-renewable sources,0.0
+Belgium,Brazil,RESCHEDULING AND REFINANCING,95301312.0
+Belgium,Colombia,Air transport,0.0
+Belgium,Colombia,Rail transport,0.0
+Belgium,Colombia,Industrial development,437122.0
+Belgium,Colombia,Power generation/non-renewable sources,471552.0
+Belgium,Colombia,RESCHEDULING AND REFINANCING,0.0
+Belgium,Korea,Air transport,0.0
+Belgium,Korea,Rail transport,0.0
+Belgium,Korea,Industrial development,0.0
+Belgium,Korea,Power generation/non-renewable sources,0.0
+Belgium,Korea,RESCHEDULING AND REFINANCING,0.0
+Belgium,Poland,Air transport,0.0
+Belgium,Poland,Rail transport,0.0
+Belgium,Poland,Industrial development,0.0
+Belgium,Poland,Power generation/non-renewable sources,0.0
+Belgium,Poland,RESCHEDULING AND REFINANCING,797173879.0
+Belgium,South Africa,Air transport,0.0
+Belgium,South Africa,Rail transport,0.0
+Belgium,South Africa,Industrial development,7238.0
+Belgium,South Africa,Power generation/non-renewable sources,0.0
+Belgium,South Africa,RESCHEDULING AND REFINANCING,0.0
+Belgium,Kuwait,Air transport,0.0
+Belgium,Kuwait,Rail transport,0.0
+Belgium,Kuwait,Industrial development,0.0
+Belgium,Kuwait,Power generation/non-renewable sources,0.0
+Belgium,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Belgium,Chile,Air transport,0.0
+Belgium,Chile,Rail transport,0.0
+Belgium,Chile,Industrial development,522868.0
+Belgium,Chile,Power generation/non-renewable sources,0.0
+Belgium,Chile,RESCHEDULING AND REFINANCING,0.0
+Belgium,Saudi Arabia,Air transport,0.0
+Belgium,Saudi Arabia,Rail transport,0.0
+Belgium,Saudi Arabia,Industrial development,0.0
+Belgium,Saudi Arabia,Power generation/non-renewable sources,0.0
+Belgium,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Spain,India,Air transport,6797785.0
+Spain,India,Rail transport,19497.0
+Spain,India,Industrial development,1386496.0
+Spain,India,Power generation/non-renewable sources,0.0
+Spain,India,RESCHEDULING AND REFINANCING,0.0
+Spain,Thailand,Air transport,0.0
+Spain,Thailand,Rail transport,0.0
+Spain,Thailand,Industrial development,32435.0
+Spain,Thailand,Power generation/non-renewable sources,0.0
+Spain,Thailand,RESCHEDULING AND REFINANCING,0.0
+Spain,Brazil,Air transport,140677.0
+Spain,Brazil,Rail transport,140375.0
+Spain,Brazil,Industrial development,1110417.0
+Spain,Brazil,Power generation/non-renewable sources,0.0
+Spain,Brazil,RESCHEDULING AND REFINANCING,0.0
+Spain,Colombia,Air transport,470750.0
+Spain,Colombia,Rail transport,0.0
+Spain,Colombia,Industrial development,3329991.0
+Spain,Colombia,Power generation/non-renewable sources,0.0
+Spain,Colombia,RESCHEDULING AND REFINANCING,0.0
+Spain,Korea,Air transport,0.0
+Spain,Korea,Rail transport,0.0
+Spain,Korea,Industrial development,0.0
+Spain,Korea,Power generation/non-renewable sources,0.0
+Spain,Korea,RESCHEDULING AND REFINANCING,0.0
+Spain,Poland,Air transport,0.0
+Spain,Poland,Rail transport,0.0
+Spain,Poland,Industrial development,0.0
+Spain,Poland,Power generation/non-renewable sources,0.0
+Spain,Poland,RESCHEDULING AND REFINANCING,0.0
+Spain,South Africa,Air transport,0.0
+Spain,South Africa,Rail transport,0.0
+Spain,South Africa,Industrial development,0.0
+Spain,South Africa,Power generation/non-renewable sources,0.0
+Spain,South Africa,RESCHEDULING AND REFINANCING,0.0
+Spain,Kuwait,Air transport,0.0
+Spain,Kuwait,Rail transport,0.0
+Spain,Kuwait,Industrial development,0.0
+Spain,Kuwait,Power generation/non-renewable sources,0.0
+Spain,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Spain,Chile,Air transport,20706.0
+Spain,Chile,Rail transport,0.0
+Spain,Chile,Industrial development,2505456.0
+Spain,Chile,Power generation/non-renewable sources,0.0
+Spain,Chile,RESCHEDULING AND REFINANCING,0.0
+Spain,Saudi Arabia,Air transport,0.0
+Spain,Saudi Arabia,Rail transport,0.0
+Spain,Saudi Arabia,Industrial development,0.0
+Spain,Saudi Arabia,Power generation/non-renewable sources,0.0
+Spain,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,India,Air transport,0.0
+Saudi Arabia,India,Rail transport,79371799.0
+Saudi Arabia,India,Industrial development,0.0
+Saudi Arabia,India,Power generation/non-renewable sources,0.0
+Saudi Arabia,India,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,Thailand,Air transport,0.0
+Saudi Arabia,Thailand,Rail transport,0.0
+Saudi Arabia,Thailand,Industrial development,0.0
+Saudi Arabia,Thailand,Power generation/non-renewable sources,95676536.0
+Saudi Arabia,Thailand,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,Brazil,Air transport,0.0
+Saudi Arabia,Brazil,Rail transport,0.0
+Saudi Arabia,Brazil,Industrial development,0.0
+Saudi Arabia,Brazil,Power generation/non-renewable sources,0.0
+Saudi Arabia,Brazil,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,Colombia,Air transport,0.0
+Saudi Arabia,Colombia,Rail transport,0.0
+Saudi Arabia,Colombia,Industrial development,0.0
+Saudi Arabia,Colombia,Power generation/non-renewable sources,0.0
+Saudi Arabia,Colombia,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,Korea,Air transport,0.0
+Saudi Arabia,Korea,Rail transport,0.0
+Saudi Arabia,Korea,Industrial development,0.0
+Saudi Arabia,Korea,Power generation/non-renewable sources,0.0
+Saudi Arabia,Korea,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,Poland,Air transport,0.0
+Saudi Arabia,Poland,Rail transport,0.0
+Saudi Arabia,Poland,Industrial development,0.0
+Saudi Arabia,Poland,Power generation/non-renewable sources,0.0
+Saudi Arabia,Poland,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,South Africa,Air transport,0.0
+Saudi Arabia,South Africa,Rail transport,0.0
+Saudi Arabia,South Africa,Industrial development,0.0
+Saudi Arabia,South Africa,Power generation/non-renewable sources,0.0
+Saudi Arabia,South Africa,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,Kuwait,Air transport,0.0
+Saudi Arabia,Kuwait,Rail transport,0.0
+Saudi Arabia,Kuwait,Industrial development,0.0
+Saudi Arabia,Kuwait,Power generation/non-renewable sources,0.0
+Saudi Arabia,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,Chile,Air transport,0.0
+Saudi Arabia,Chile,Rail transport,0.0
+Saudi Arabia,Chile,Industrial development,0.0
+Saudi Arabia,Chile,Power generation/non-renewable sources,0.0
+Saudi Arabia,Chile,RESCHEDULING AND REFINANCING,0.0
+Saudi Arabia,Saudi Arabia,Air transport,0.0
+Saudi Arabia,Saudi Arabia,Rail transport,0.0
+Saudi Arabia,Saudi Arabia,Industrial development,0.0
+Saudi Arabia,Saudi Arabia,Power generation/non-renewable sources,0.0
+Saudi Arabia,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Kuwait,India,Air transport,0.0
+Kuwait,India,Rail transport,0.0
+Kuwait,India,Industrial development,131175647.0
+Kuwait,India,Power generation/non-renewable sources,149282062.0
+Kuwait,India,RESCHEDULING AND REFINANCING,0.0
+Kuwait,Thailand,Air transport,0.0
+Kuwait,Thailand,Rail transport,0.0
+Kuwait,Thailand,Industrial development,0.0
+Kuwait,Thailand,Power generation/non-renewable sources,65310902.0
+Kuwait,Thailand,RESCHEDULING AND REFINANCING,0.0
+Kuwait,Brazil,Air transport,0.0
+Kuwait,Brazil,Rail transport,0.0
+Kuwait,Brazil,Industrial development,0.0
+Kuwait,Brazil,Power generation/non-renewable sources,0.0
+Kuwait,Brazil,RESCHEDULING AND REFINANCING,0.0
+Kuwait,Colombia,Air transport,0.0
+Kuwait,Colombia,Rail transport,0.0
+Kuwait,Colombia,Industrial development,0.0
+Kuwait,Colombia,Power generation/non-renewable sources,0.0
+Kuwait,Colombia,RESCHEDULING AND REFINANCING,0.0
+Kuwait,Korea,Air transport,0.0
+Kuwait,Korea,Rail transport,0.0
+Kuwait,Korea,Industrial development,0.0
+Kuwait,Korea,Power generation/non-renewable sources,0.0
+Kuwait,Korea,RESCHEDULING AND REFINANCING,0.0
+Kuwait,Poland,Air transport,0.0
+Kuwait,Poland,Rail transport,0.0
+Kuwait,Poland,Industrial development,0.0
+Kuwait,Poland,Power generation/non-renewable sources,0.0
+Kuwait,Poland,RESCHEDULING AND REFINANCING,0.0
+Kuwait,South Africa,Air transport,0.0
+Kuwait,South Africa,Rail transport,0.0
+Kuwait,South Africa,Industrial development,0.0
+Kuwait,South Africa,Power generation/non-renewable sources,0.0
+Kuwait,South Africa,RESCHEDULING AND REFINANCING,0.0
+Kuwait,Kuwait,Air transport,0.0
+Kuwait,Kuwait,Rail transport,0.0
+Kuwait,Kuwait,Industrial development,0.0
+Kuwait,Kuwait,Power generation/non-renewable sources,0.0
+Kuwait,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Kuwait,Chile,Air transport,0.0
+Kuwait,Chile,Rail transport,0.0
+Kuwait,Chile,Industrial development,0.0
+Kuwait,Chile,Power generation/non-renewable sources,0.0
+Kuwait,Chile,RESCHEDULING AND REFINANCING,0.0
+Kuwait,Saudi Arabia,Air transport,0.0
+Kuwait,Saudi Arabia,Rail transport,0.0
+Kuwait,Saudi Arabia,Industrial development,0.0
+Kuwait,Saudi Arabia,Power generation/non-renewable sources,0.0
+Kuwait,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Korea,India,Air transport,0.0
+Korea,India,Rail transport,0.0
+Korea,India,Industrial development,0.0
+Korea,India,Power generation/non-renewable sources,0.0
+Korea,India,RESCHEDULING AND REFINANCING,0.0
+Korea,Thailand,Air transport,52335.0
+Korea,Thailand,Rail transport,111908.0
+Korea,Thailand,Industrial development,1096198.0
+Korea,Thailand,Power generation/non-renewable sources,109423.0
+Korea,Thailand,RESCHEDULING AND REFINANCING,0.0
+Korea,Brazil,Air transport,0.0
+Korea,Brazil,Rail transport,0.0
+Korea,Brazil,Industrial development,123207.0
+Korea,Brazil,Power generation/non-renewable sources,0.0
+Korea,Brazil,RESCHEDULING AND REFINANCING,0.0
+Korea,Colombia,Air transport,0.0
+Korea,Colombia,Rail transport,58854.0
+Korea,Colombia,Industrial development,344229.0
+Korea,Colombia,Power generation/non-renewable sources,0.0
+Korea,Colombia,RESCHEDULING AND REFINANCING,0.0
+Korea,Korea,Air transport,0.0
+Korea,Korea,Rail transport,0.0
+Korea,Korea,Industrial development,0.0
+Korea,Korea,Power generation/non-renewable sources,0.0
+Korea,Korea,RESCHEDULING AND REFINANCING,0.0
+Korea,Poland,Air transport,0.0
+Korea,Poland,Rail transport,0.0
+Korea,Poland,Industrial development,0.0
+Korea,Poland,Power generation/non-renewable sources,0.0
+Korea,Poland,RESCHEDULING AND REFINANCING,0.0
+Korea,South Africa,Air transport,0.0
+Korea,South Africa,Rail transport,0.0
+Korea,South Africa,Industrial development,0.0
+Korea,South Africa,Power generation/non-renewable sources,0.0
+Korea,South Africa,RESCHEDULING AND REFINANCING,0.0
+Korea,Kuwait,Air transport,0.0
+Korea,Kuwait,Rail transport,0.0
+Korea,Kuwait,Industrial development,0.0
+Korea,Kuwait,Power generation/non-renewable sources,0.0
+Korea,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Korea,Chile,Air transport,28586.0
+Korea,Chile,Rail transport,0.0
+Korea,Chile,Industrial development,0.0
+Korea,Chile,Power generation/non-renewable sources,0.0
+Korea,Chile,RESCHEDULING AND REFINANCING,0.0
+Korea,Saudi Arabia,Air transport,0.0
+Korea,Saudi Arabia,Rail transport,0.0
+Korea,Saudi Arabia,Industrial development,0.0
+Korea,Saudi Arabia,Power generation/non-renewable sources,0.0
+Korea,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Austria,India,Air transport,0.0
+Austria,India,Rail transport,0.0
+Austria,India,Industrial development,7202447.0
+Austria,India,Power generation/non-renewable sources,8081078.0
+Austria,India,RESCHEDULING AND REFINANCING,0.0
+Austria,Thailand,Air transport,0.0
+Austria,Thailand,Rail transport,0.0
+Austria,Thailand,Industrial development,2281844.0
+Austria,Thailand,Power generation/non-renewable sources,0.0
+Austria,Thailand,RESCHEDULING AND REFINANCING,0.0
+Austria,Brazil,Air transport,0.0
+Austria,Brazil,Rail transport,0.0
+Austria,Brazil,Industrial development,5167098.0
+Austria,Brazil,Power generation/non-renewable sources,0.0
+Austria,Brazil,RESCHEDULING AND REFINANCING,0.0
+Austria,Colombia,Air transport,0.0
+Austria,Colombia,Rail transport,2814444.0
+Austria,Colombia,Industrial development,0.0
+Austria,Colombia,Power generation/non-renewable sources,0.0
+Austria,Colombia,RESCHEDULING AND REFINANCING,0.0
+Austria,Korea,Air transport,0.0
+Austria,Korea,Rail transport,0.0
+Austria,Korea,Industrial development,0.0
+Austria,Korea,Power generation/non-renewable sources,0.0
+Austria,Korea,RESCHEDULING AND REFINANCING,0.0
+Austria,Poland,Air transport,0.0
+Austria,Poland,Rail transport,0.0
+Austria,Poland,Industrial development,0.0
+Austria,Poland,Power generation/non-renewable sources,0.0
+Austria,Poland,RESCHEDULING AND REFINANCING,0.0
+Austria,South Africa,Air transport,0.0
+Austria,South Africa,Rail transport,0.0
+Austria,South Africa,Industrial development,0.0
+Austria,South Africa,Power generation/non-renewable sources,0.0
+Austria,South Africa,RESCHEDULING AND REFINANCING,0.0
+Austria,Kuwait,Air transport,0.0
+Austria,Kuwait,Rail transport,0.0
+Austria,Kuwait,Industrial development,0.0
+Austria,Kuwait,Power generation/non-renewable sources,0.0
+Austria,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Austria,Chile,Air transport,0.0
+Austria,Chile,Rail transport,0.0
+Austria,Chile,Industrial development,0.0
+Austria,Chile,Power generation/non-renewable sources,0.0
+Austria,Chile,RESCHEDULING AND REFINANCING,0.0
+Austria,Saudi Arabia,Air transport,0.0
+Austria,Saudi Arabia,Rail transport,0.0
+Austria,Saudi Arabia,Industrial development,203662.0
+Austria,Saudi Arabia,Power generation/non-renewable sources,0.0
+Austria,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
+Finland,India,Air transport,0.0
+Finland,India,Rail transport,0.0
+Finland,India,Industrial development,31746338.0
+Finland,India,Power generation/non-renewable sources,0.0
+Finland,India,RESCHEDULING AND REFINANCING,0.0
+Finland,Thailand,Air transport,0.0
+Finland,Thailand,Rail transport,0.0
+Finland,Thailand,Industrial development,58111179.0
+Finland,Thailand,Power generation/non-renewable sources,0.0
+Finland,Thailand,RESCHEDULING AND REFINANCING,0.0
+Finland,Brazil,Air transport,0.0
+Finland,Brazil,Rail transport,0.0
+Finland,Brazil,Industrial development,0.0
+Finland,Brazil,Power generation/non-renewable sources,0.0
+Finland,Brazil,RESCHEDULING AND REFINANCING,0.0
+Finland,Colombia,Air transport,0.0
+Finland,Colombia,Rail transport,0.0
+Finland,Colombia,Industrial development,0.0
+Finland,Colombia,Power generation/non-renewable sources,0.0
+Finland,Colombia,RESCHEDULING AND REFINANCING,0.0
+Finland,Korea,Air transport,0.0
+Finland,Korea,Rail transport,0.0
+Finland,Korea,Industrial development,0.0
+Finland,Korea,Power generation/non-renewable sources,0.0
+Finland,Korea,RESCHEDULING AND REFINANCING,0.0
+Finland,Poland,Air transport,0.0
+Finland,Poland,Rail transport,0.0
+Finland,Poland,Industrial development,6313047.0
+Finland,Poland,Power generation/non-renewable sources,0.0
+Finland,Poland,RESCHEDULING AND REFINANCING,0.0
+Finland,South Africa,Air transport,0.0
+Finland,South Africa,Rail transport,0.0
+Finland,South Africa,Industrial development,7517.0
+Finland,South Africa,Power generation/non-renewable sources,0.0
+Finland,South Africa,RESCHEDULING AND REFINANCING,0.0
+Finland,Kuwait,Air transport,0.0
+Finland,Kuwait,Rail transport,0.0
+Finland,Kuwait,Industrial development,0.0
+Finland,Kuwait,Power generation/non-renewable sources,0.0
+Finland,Kuwait,RESCHEDULING AND REFINANCING,0.0
+Finland,Chile,Air transport,0.0
+Finland,Chile,Rail transport,0.0
+Finland,Chile,Industrial development,0.0
+Finland,Chile,Power generation/non-renewable sources,0.0
+Finland,Chile,RESCHEDULING AND REFINANCING,0.0
+Finland,Saudi Arabia,Air transport,0.0
+Finland,Saudi Arabia,Rail transport,0.0
+Finland,Saudi Arabia,Industrial development,0.0
+Finland,Saudi Arabia,Power generation/non-renewable sources,0.0
+Finland,Saudi Arabia,RESCHEDULING AND REFINANCING,0.0
