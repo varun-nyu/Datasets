@@ -3,33 +3,39 @@ Japan,India,48830067295
 Japan,Thailand,35437690727
 United Kingdom,India,19921976117
 Germany,India,18017983208
+Germany,Poland,17230746024
 United States,Colombia,17104240812
 United States,India,16529832819
 United States,Brazil,13548341140
+Japan,Korea,13029452754
+United States,Korea,11154361995
 Japan,Brazil,10406029105
+United States,Kuwait,7727422143
 Netherlands,India,6977708986
 United States,South Africa,6678780430
 United States,Thailand,6495636611
+United States,Saudi Arabia,4440013519
 France,India,4139074370
 Germany,Brazil,4063216247
 Sweden,India,3827796549
 United States,Chile,3690681030
 Canada,India,3659444746
 France,Brazil,3297628513
+United States,Poland,2508547257
 Norway,India,2147933250
+France,Poland,2005432347
 Denmark,India,2004368952
 France,South Africa,1901701859
 United Kingdom,South Africa,1862114265
 Italy,Brazil,1843859410
 Switzerland,India,1839499003
 Germany,South Africa,1784147995
-United States,Hungary,1765304543
 Germany,Thailand,1702275036
-United States,Romania,1686279765
 France,Colombia,1680107102
 Sweden,South Africa,1416545325
 Japan,Colombia,1414487282
 Germany,Chile,1365472828
+Canada,Poland,1307586093
 Germany,Colombia,1238911524
 Italy,India,1237117872
 Japan,South Africa,1176312073
@@ -38,21 +44,24 @@ Norway,Brazil,1070847764
 Spain,Colombia,1066811913
 France,Thailand,1049660923
 Australia,India,982075862
+Kuwait,India,893157410
 Netherlands,South Africa,840526986
+Korea,India,838979022
 Canada,Thailand,836611055
-Japan,Romania,801669787
+Belgium,Poland,800330632
+Saudi Arabia,India,759651342
 United Kingdom,Brazil,713312502
 Japan,Chile,703444054
+Germany,Korea,691327750
 Norway,South Africa,689555304
-Japan,Hungary,680145878
 Canada,Colombia,671086359
 Netherlands,Colombia,642223602
 Belgium,India,561481858
-United States,Cyprus,494019637
 Denmark,Thailand,489489466
 United Kingdom,Thailand,434207101
 France,Chile,423553789
 Denmark,South Africa,411760384
+Japan,Saudi Arabia,373261027
 Canada,South Africa,370099631
 Canada,Brazil,344019962
 Belgium,South Africa,340304159
@@ -63,139 +72,130 @@ Norway,Colombia,299650983
 Switzerland,Colombia,291509810
 Switzerland,South Africa,273016890
 Spain,India,271820536
-France,Romania,241984953
+Kuwait,Thailand,260887969
 Australia,South Africa,240893012
-Germany,Romania,222430428
 United Kingdom,Colombia,215435718
 Belgium,Brazil,212928735
 Spain,Chile,211911806
+United Kingdom,Poland,209349961
+Korea,Brazil,204472350
 Finland,South Africa,198796278
-Ireland,South Africa,192651212
+Saudi Arabia,Brazil,191647004
 Sweden,Thailand,184052641
 Finland,India,182512666
 Sweden,Chile,177465428
-France,Hungary,172396140
 Italy,Chile,169818458
 Austria,India,162421492
+Saudi Arabia,Thailand,156480316
+France,Korea,148847642
 Switzerland,Thailand,143029761
 Norway,Thailand,136378534
+Saudi Arabia,Korea,134511154
 Netherlands,Thailand,129993723
 Netherlands,Chile,127976174
 Finland,Thailand,126195858
-Germany,Cyprus,112651716
-Germany,Slovenia,109892941
-United Kingdom,Romania,109722333
+Japan,Poland,116688443
+Austria,Korea,111526265
 Italy,South Africa,106916806
 Canada,Chile,106773387
-Germany,Hungary,105587476
+Korea,Thailand,105821945
 Belgium,Colombia,102867692
 Switzerland,Brazil,95419283
+Sweden,Poland,94176270
+Spain,Poland,88269401
 Switzerland,Chile,87963745
 Netherlands,Brazil,87040487
+Korea,Colombia,85662550
 Austria,Thailand,73958508
-Switzerland,Romania,73441265
-United Kingdom,Hungary,71021427
-Austria,Hungary,63871235
 Belgium,Chile,59867040
-France,Cyprus,59146756
-Ireland,India,58328825
+Italy,Poland,57102621
 Norway,Chile,56575551
 Belgium,Thailand,53295601
 Austria,Brazil,52226511
-Austria,Cyprus,51130825
-Austria,Slovenia,46991641
-Canada,Romania,44042357
-Luxembourg,India,36638705
-Netherlands,Romania,35291746
+France,Saudi Arabia,43705887
+Korea,Chile,43598915
 Italy,Thailand,34627069
 Denmark,Chile,33407149
-Austria,Romania,31695093
+Austria,Poland,33184327
 United Kingdom,Chile,29636288
 Austria,South Africa,29251443
 Sweden,Brazil,26653699
-Canada,Slovenia,25872980
 Finland,Brazil,25810862
-Italy,Romania,25578574
-Spain,Romania,24248203
 Finland,Colombia,23761728
-Luxembourg,Brazil,23531630
-Luxembourg,Colombia,20308798
+France,Kuwait,21944819
+Korea,South Africa,20345015
 Austria,Colombia,20231447
 Spain,South Africa,19495582
-Ireland,Colombia,19468675
-Australia,Cyprus,18728824
-Luxembourg,South Africa,18699146
-New Zealand,South Africa,18156298
-New Zealand,India,17973296
-Ireland,Brazil,17590489
-Netherlands,Hungary,17119328
-Canada,Hungary,15859229
-Italy,Cyprus,13345573
-United Kingdom,Cyprus,13166610
-France,Slovenia,12821097
-Finland,Hungary,12089983
+Netherlands,Poland,14269465
+Germany,Saudi Arabia,14096654
+Finland,Poland,12233233
 Australia,Chile,11512013
+Sweden,Kuwait,11228374
 Australia,Brazil,10843457
 Australia,Colombia,10565816
-Sweden,Romania,10079723
 Finland,Chile,9423678
-Italy,Hungary,8524063
-New Zealand,Thailand,8211584
-New Zealand,Chile,7827589
+Australia,Korea,7599604
+Italy,Korea,7324360
 Spain,Thailand,7072193
-United States,Slovenia,6917157
-Switzerland,Cyprus,6611736
-Italy,Slovenia,6608256
 Austria,Chile,6426788
-Luxembourg,Thailand,5449188
-United Kingdom,Slovenia,5171801
-Luxembourg,Chile,5065189
-Belgium,Romania,4513915
-Ireland,Thailand,4314669
-Sweden,Slovenia,3979854
-Spain,Hungary,3854725
-Norway,Romania,3776773
-Netherlands,Slovenia,3407449
+Germany,Kuwait,5859569
+Japan,Kuwait,4397148
+Canada,Korea,3865408
+United Kingdom,Korea,3243556
 Denmark,Brazil,3184580
 Denmark,Colombia,3146117
-New Zealand,Brazil,3055532
-Sweden,Hungary,2969663
-Switzerland,Hungary,2322402
-Netherlands,Cyprus,2179629
-Ireland,Chile,2159916
-Belgium,Hungary,1433578
-Canada,Cyprus,1410195
-New Zealand,Colombia,1371917
-Belgium,Slovenia,1314983
-Norway,Cyprus,1246375
-Australia,Hungary,984655
-Spain,Slovenia,707340
-Norway,Hungary,624435
-Switzerland,Slovenia,371519
-Ireland,Romania,335098
-Japan,Slovenia,316243
-Spain,Cyprus,229892
-Norway,Slovenia,226588
-Belgium,Cyprus,149740
-Luxembourg,Romania,133449
-Australia,Slovenia,96659
-Ireland,Hungary,60706
-Japan,Cyprus,27266
-Finland,Romania,26671
-Finland,Cyprus,0
-Finland,Slovenia,0
-Luxembourg,Hungary,0
-Luxembourg,Cyprus,0
-Luxembourg,Slovenia,0
-New Zealand,Romania,0
-New Zealand,Hungary,0
-New Zealand,Cyprus,0
-New Zealand,Slovenia,0
-Ireland,Cyprus,0
-Ireland,Slovenia,0
-Sweden,Cyprus,0
-Denmark,Romania,0
-Denmark,Hungary,0
-Denmark,Cyprus,0
-Denmark,Slovenia,0
-Australia,Romania,0
+Switzerland,Poland,3141751
+Norway,Poland,2504790
+Austria,Saudi Arabia,2145296
+Spain,Korea,685941
+United Kingdom,Saudi Arabia,671150
+Netherlands,Korea,491792
+Italy,Kuwait,327910
+Italy,Saudi Arabia,277701
+Switzerland,Korea,249214
+Netherlands,Saudi Arabia,227521
+Norway,Saudi Arabia,195375
+Korea,Saudi Arabia,167923
+Austria,Kuwait,124190
+Netherlands,Kuwait,60454
+Belgium,Korea,52608
+Finland,Saudi Arabia,38710
+Spain,Kuwait,20232
+Canada,Saudi Arabia,16166
+Spain,Saudi Arabia,14214
+Belgium,Saudi Arabia,9103
+Australia,Saudi Arabia,7575
+Australia,Poland,3046
+Canada,Kuwait,1568
+United Kingdom,Kuwait,0
+Sweden,Korea,0
+Sweden,Saudi Arabia,0
+Norway,Korea,0
+Norway,Kuwait,0
+Denmark,Korea,0
+Denmark,Poland,0
+Denmark,Kuwait,0
+Denmark,Saudi Arabia,0
+Switzerland,Kuwait,0
+Switzerland,Saudi Arabia,0
+Australia,Kuwait,0
+Belgium,Kuwait,0
+Saudi Arabia,Colombia,0
+Saudi Arabia,Poland,0
+Saudi Arabia,South Africa,0
+Saudi Arabia,Kuwait,0
+Saudi Arabia,Chile,0
+Saudi Arabia,Saudi Arabia,0
+Kuwait,Brazil,0
+Kuwait,Colombia,0
+Kuwait,Korea,0
+Kuwait,Poland,0
+Kuwait,South Africa,0
+Kuwait,Kuwait,0
+Kuwait,Chile,0
+Kuwait,Saudi Arabia,0
+Korea,Korea,0
+Korea,Poland,0
+Korea,Kuwait,0
+Finland,Korea,0
+Finland,Kuwait,0
